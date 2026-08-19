@@ -1,0 +1,45 @@
+# Companies ian has already applied to — never added to the list.
+# One per line, case-insensitive substring match on the company name.
+Aquatic
+Walleye
+AQR
+D.E. Shaw
+GSA
+Susquehanna
+SIG
+Squarepoint
+TransMarket
+Voloridge
+Citadel
+Tower Research
+Jane Street
+Jump Trading
+DRW
+Hudson River Trading
+HRT
+Akuna
+Five Rings
+The Trade Desk
+Google
+Rippling
+Nuro
+Uber
+Chicago Trading Company
+Apple
+Virtu
+Anthelion
+Arrowstreet
+Cubist
+Etched
+PDT Partners
+Millennium
+Samsara
+Microsoft
+SpaceX
+Figma
+Blue Origin
+Postman
+Scale AI
+Belvedere
+Sentry
+Cohere

@@ -1,0 +1,54 @@
+name: Daily scan
+
+# Fetches the public trackers, appends anything new to data/postings.tsv,
+# rebuilds README.md + index.html, and opens a PR.
+#
+# Deliberately opens a PR rather than pushing to main: the trackers are
+# third-party markdown and their format can change without warning, so a bad
+# parse should never land unreviewed. Check scan-report.md in the PR — it lists
+# sources that failed and companies with no category rule.
+
+on:
+  schedule:
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+    inputs:
+      days:
+        description: 'How many days back to scan (use 30 for the initial backfill)'
+        default: '2'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Verify parser still works
+        run: python3 tests/test_parse.py
+
+      - name: Scan trackers
+        run: python3 scripts/scan.py --days "${{ github.event.inputs.days || 2 }}"
+
+      - name: Rebuild README and site
+        run: python3 scripts/build.py
+
+      - name: Open PR if anything changed
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore: daily scan"
+          title: "Daily scan — new 2027 postings"
+          body-path: scan-report.md
+          branch: scan/daily
+          delete-branch: true
+          add-paths: |
+            data/postings.tsv
+            README.md
+            index.html

@@ -1,0 +1,118 @@
+# Maps a company-name substring to a category. First match wins.
+# Categories: Quant | Tech | Defense & Aero | Finance | Other
+# Anything unmatched is filed as Other and flagged for review in the PR.
+pattern	category
+optiver	Quant
+imc	Quant
+old mission	Quant
+hyannis port	Quant
+dv trading	Quant
+dv group	Quant
+flow traders	Quant
+castleton	Quant
+seven research	Quant
+stevens capital	Quant
+trillium	Quant
+melius	Quant
+quadrillion	Quant
+two sigma	Quant
+point72	Quant
+radix	Quant
+xtx	Quant
+qube	Quant
+balyasny	Quant
+bridgewater	Quant
+worldquant	Quant
+vatic	Quant
+headlands	Quant
+wolverine	Quant
+peak6	Quant
+schonfeld	Quant
+exoduspoint	Quant
+quantlab	Quant
+maven	Quant
+verition	Quant
+geneva trading	Quant
+gelber	Quant
+group one	Quant
+man ahl	Quant
+engineers gate	Quant
+teza	Quant
+allston	Quant
+xr trading	Quant
+tradebot	Quant
+epoch capital	Quant
+kershner	Quant
+marshall wace	Quant
+bytedance	Tech
+tiktok	Tech
+notion	Tech
+replit	Tech
+palantir	Tech
+roblox	Tech
+neuralink	Tech
+axon	Tech
+western digital	Tech
+motorola	Tech
+godaddy	Tech
+appian	Tech
+skydio	Tech
+ellipsis	Tech
+netic	Tech
+heliux	Tech
+ctgt	Tech
+amazon	Tech
+meta	Tech
+nvidia	Tech
+stripe	Tech
+databricks	Tech
+openai	Tech
+anthropic	Tech
+snowflake	Tech
+datadog	Tech
+ramp	Tech
+waymo	Tech
+netflix	Tech
+snap	Tech
+coinbase	Tech
+salesforce	Tech
+qualcomm	Tech
+adobe	Tech
+oracle	Tech
+linkedin	Tech
+intel	Tech
+amd	Tech
+airbnb	Tech
+doordash	Tech
+pinterest	Tech
+instacart	Tech
+lyft	Tech
+reddit	Tech
+discord	Tech
+mongodb	Tech
+anduril	Defense & Aero
+northrop	Defense & Aero
+rtx	Defense & Aero
+raytheon	Defense & Aero
+teledyne	Defense & Aero
+lockheed	Defense & Aero
+general dynamics	Defense & Aero
+l3harris	Defense & Aero
+boeing	Defense & Aero
+specter aerospace	Defense & Aero
+nuclear company	Defense & Aero
+jpmorgan	Finance
+capital one	Finance
+lpl financial	Finance
+kpmg	Finance
+goldman	Finance
+morgan stanley	Finance
+blackrock	Finance
+fidelity	Finance
+ge vernova	Other
+mckesson	Other
+medtronic	Other
+ge appliances	Other
+asm	Other
+midmark	Other
+medpace	Other
