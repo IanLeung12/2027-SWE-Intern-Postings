@@ -1,5 +1,5 @@
 # Maps a company-name substring to a category. First match wins.
-# Categories: Quant | Tech | Defense & Aero | Finance | Other
+# Categories: Quant | Tech | Startups | Other
 # Anything unmatched is filed as Other and flagged for review in the PR.
 pattern	category
 optiver	Quant
@@ -46,35 +46,17 @@ kershner	Quant
 marshall wace	Quant
 bytedance	Tech
 tiktok	Tech
-notion	Tech
-replit	Tech
 palantir	Tech
 roblox	Tech
-neuralink	Tech
 axon	Tech
 western digital	Tech
 motorola	Tech
 godaddy	Tech
 appian	Tech
-skydio	Tech
-ellipsis	Tech
-netic	Tech
-heliux	Tech
-ctgt	Tech
 amazon	Tech
 meta	Tech
 nvidia	Tech
-stripe	Tech
-databricks	Tech
-openai	Tech
-anthropic	Tech
-snowflake	Tech
-datadog	Tech
-ramp	Tech
-waymo	Tech
 netflix	Tech
-snap	Tech
-coinbase	Tech
 salesforce	Tech
 qualcomm	Tech
 adobe	Tech
@@ -90,25 +72,42 @@ lyft	Tech
 reddit	Tech
 discord	Tech
 mongodb	Tech
-anduril	Defense & Aero
-northrop	Defense & Aero
-rtx	Defense & Aero
-raytheon	Defense & Aero
-teledyne	Defense & Aero
-lockheed	Defense & Aero
-general dynamics	Defense & Aero
-l3harris	Defense & Aero
-boeing	Defense & Aero
-specter aerospace	Defense & Aero
-nuclear company	Defense & Aero
-jpmorgan	Finance
-capital one	Finance
-lpl financial	Finance
-kpmg	Finance
-goldman	Finance
-morgan stanley	Finance
-blackrock	Finance
-fidelity	Finance
+notion	Startups
+replit	Startups
+neuralink	Startups
+skydio	Startups
+ellipsis	Startups
+netic	Startups
+heliux	Startups
+ctgt	Startups
+stripe	Startups
+databricks	Startups
+openai	Startups
+anthropic	Startups
+snowflake	Startups
+datadog	Startups
+ramp	Startups
+waymo	Startups
+coinbase	Startups
+anduril	Startups
+rtx	Other
+northrop	Other
+raytheon	Other
+teledyne	Other
+lockheed	Other
+general dynamics	Other
+l3harris	Other
+boeing	Other
+specter aerospace	Other
+nuclear company	Other
+jpmorgan	Other
+capital one	Other
+lpl financial	Other
+kpmg	Other
+goldman	Other
+morgan stanley	Other
+blackrock	Other
+fidelity	Other
 ge vernova	Other
 mckesson	Other
 medtronic	Other

@@ -233,6 +233,21 @@ def main():
                   if USE_APPLIED_FILTER else (lambda _c: False))
     pairs = load_categories()
 
+    reclassified = 0
+    for row in existing:
+        category, known = categorize(row.get("company", ""), pairs,
+                                      row.get("role", ""))
+        if known and row.get("category") != category:
+            row["category"] = category
+            reclassified += 1
+
+    if reclassified and not args.dry_run:
+        with DATA.open("w", newline="", encoding="utf-8") as fh:
+            writer = csv.DictWriter(fh, fieldnames=fields, delimiter="\t",
+                                    lineterminator="\n")
+            writer.writeheader()
+            writer.writerows(existing)
+
     added, unknown, failures, learned = [], [], [], []
     for name, url in TRACKERS.items():
         try:
@@ -281,6 +296,8 @@ def main():
     lines = [f"### Scan {today.isoformat()}", ""]
     lines.append(f"- trackers OK: {len(TRACKERS) - len(failures)}/{len(TRACKERS)}")
     lines.append(f"- new postings: **{len(added)}**")
+    if reclassified:
+        lines.append(f"- reclassified postings: **{reclassified}**")
     if failures:
         lines.append("")
         lines.append("**Sources that failed — these were NOT scanned:**")

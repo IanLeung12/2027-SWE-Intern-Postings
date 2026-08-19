@@ -25,7 +25,8 @@ assert by["https://rtx.com/apply/789"]["location"] == "Largo, FL"
 
 pairs = scan.load_categories()
 assert scan.categorize("Optiver", pairs) == ("Quant", True)
-assert scan.categorize("RTX", pairs)[0] == "Defense & Aero"
+assert scan.categorize("RTX", pairs)[0] == "Other"
+assert scan.categorize("Replit", pairs)[0] == "Startups"
 assert scan.categorize("Weird Co", pairs) == ("Other", False), "unknown must be flagged"
 assert scan.categorize("Jane Street", pairs, "QT new", "sndsh404") == ("Quant", True)
 assert scan.categorize("Unknown Fund", pairs, "Quantitative Developer Intern", "sndsh404") == ("Quant", True)

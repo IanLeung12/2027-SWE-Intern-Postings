@@ -11,12 +11,11 @@ DATA = ROOT / "data" / "postings.tsv"
 STALE_DAYS = 30          # rows older than this are dropped by prune()
 NEW_DAYS = 3             # rows this recent get a "new" badge
 
-ORDER = ["Quant", "Tech", "Defense & Aero", "Finance", "Other"]
+ORDER = ["Quant", "Tech", "Startups", "Other"]
 BLURB = {
     "Quant": "Trading firms, market makers and hedge funds.",
-    "Tech": "Big tech, AI labs and funded startups.",
-    "Defense & Aero": "Primes and defense-tech.",
-    "Finance": "Banks, fintech and financial services.",
+    "Tech": "Big tech, AI labs and established technology companies.",
+    "Startups": "Early-stage and venture-backed technology companies.",
     "Other": "Everything else that cleared the bar.",
 }
 
@@ -25,7 +24,13 @@ def today():
 
 def load():
     with DATA.open(newline="", encoding="utf-8") as fh:
-        return list(csv.DictReader(fh, delimiter="\t"))
+        rows = list(csv.DictReader(fh, delimiter="\t"))
+    # Legacy labels collapse into the new four-category taxonomy. The scan
+    # will persist the normalized values when it next runs.
+    for row in rows:
+        if row["category"] in {"Defense & Aero", "Finance"}:
+            row["category"] = "Other"
+    return rows
 
 def parse(d):
     return datetime.date.fromisoformat(d)
