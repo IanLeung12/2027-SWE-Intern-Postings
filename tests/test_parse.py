@@ -35,6 +35,27 @@ assert scan.norm_url("https://a.com/x/?utm=1") == scan.norm_url("https://a.com/x
 assert scan.guess_term("SWE Intern Winter 2027", "") == "Winter 2027"
 assert scan.guess_term("SWE Intern", "") == "Summer 2027"
 
+# Source-format regression coverage: HTML tables, calendar dates, and NUFT's
+# undated company-section format.
+HTML = """
+<table><tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
+<tr><td><strong><a href="https://simplify.jobs/c/Acme">Acme</a></strong></td><td>SWE</td><td>NYC</td>
+<td><a href="https://acme.example/jobs/1"><img src="apply.png"></a></td><td>0d</td></tr></table>
+"""
+assert scan.parse_tracker(HTML)[0]["company"] == "Acme"
+assert scan.parse_tracker(
+    "| Acme | SWE | NYC | [apply](https://acme.example/jobs/2) | Aug 16 |",
+    __import__("datetime").date(2026, 8, 18),
+)[0]["age"] == 2
+NUFT = """
+## Acme
+**Locations**: Chicago
+|Role|Links|
+|-------|-------|
+|SWE|[✅ ](https://acme.example/jobs/3)|
+"""
+assert scan.parse_tracker(NUFT)[0]["location"] == "Chicago"
+
 print("all parser tests passed")
 
 # --- applied-list matching must be word-boundary, not substring -------------

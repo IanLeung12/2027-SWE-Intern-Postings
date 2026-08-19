@@ -29,6 +29,8 @@ TRACKERS = {
 }
 
 AGE_RE = re.compile(r"^(\d+)\s*(d|h|mo)$", re.I)
+ISO_DATE_RE = re.compile(r"^(\d{4})-(\d{2})-(\d{2})$")
+SHORT_DATE_RE = re.compile(r"^([A-Za-z]{3,9})\s+(\d{1,2})$")
 URL_RE = re.compile(r'https?://[^\s"\'<>)\]]+')
 MDLINK_RE = re.compile(r"\[([^\]]*)\]\([^)]*\)")
 TAG_RE = re.compile(r"<[^>]+>")
@@ -51,19 +53,52 @@ def age_days(cell):
     n, unit = int(m.group(1)), m.group(2).lower()
     return {"h": 0, "d": n, "mo": n * 30}[unit]
 
-def parse_tracker(text):
-    """Yield (company, role, location, url, age_days) from markdown tables."""
-    out, last_company = [], None
+def date_age(cell, today=None):
+    """Return the age of an ISO or ``Mon DD`` date, or None."""
+    today = today or datetime.date.today()
+    value = clean(cell)
+    match = ISO_DATE_RE.match(value)
+    if match:
+        posted = datetime.date(*(int(x) for x in match.groups()))
+    else:
+        match = SHORT_DATE_RE.match(value)
+        if not match:
+            return None
+        try:
+            posted = datetime.date(today.year, datetime.datetime.strptime(
+                match.group(1)[:3], "%b").month, int(match.group(2)))
+        except ValueError:
+            return None
+        if posted > today:
+            posted = posted.replace(year=posted.year - 1)
+    return max(0, (today - posted).days)
+
+def table_rows(text):
+    """Yield cells from Markdown tables and HTML tables."""
     for line in text.splitlines():
         line = line.strip()
-        if not line.startswith("|"):
-            continue
-        cells = [c for c in line.split("|")[1:-1]]
+        if line.startswith("|"):
+            cells = [c for c in line.split("|")[1:-1]]
+            if cells:
+                yield cells
+    for row in re.findall(r"<tr\b[^>]*>(.*?)</tr>", text, re.I | re.S):
+        cells = re.findall(r"<td\b[^>]*>(.*?)</td>", row, re.I | re.S)
+        if cells:
+            yield cells
+
+def parse_tracker(text, today=None):
+    """Yield postings from the tracker formats used by the source repos."""
+    today = today or datetime.date.today()
+    out, last_company = [], None
+    for cells in table_rows(text):
         if len(cells) < 4:
             continue
         if set(clean("".join(cells))) <= {"-", ":", " "}:
             continue                                    # separator row
         age = next((age_days(c) for c in reversed(cells) if age_days(c) is not None), None)
+        if age is None:
+            age = next((date_age(c, today) for c in reversed(cells)
+                        if date_age(c, today) is not None), None)
         if age is None:
             continue                                    # no age column -> can't date it
         company = clean(cells[0])
@@ -74,7 +109,7 @@ def parse_tracker(text):
         last_company = company
         if company.lower() in {"company", "name"}:
             continue                                    # header row
-        if "\U0001f512" in line:
+        if "\U0001f512" in "|".join(cells):
             continue                                    # closed posting
         # Look for the apply link only in cells AFTER the company cell, so we
         # never mistake the company's homepage link for an application URL.
@@ -98,6 +133,31 @@ def parse_tracker(text):
             "url": apply_url.rstrip("),"),
             "age": age,
         })
+    if out:
+        return out
+
+    # NUFT's generated README has one section per company and role/link
+    # tables, but intentionally carries no posting dates.
+    company = location = None
+    for line in text.splitlines():
+        heading = re.match(r"^##\s+(.+?)\s*$", line)
+        if heading:
+            company, location = clean(heading.group(1)), ""
+            continue
+        loc = re.match(r"^\*\*Locations\*\*:\s*(.+)$", line)
+        if loc:
+            location = clean(loc.group(1))
+            continue
+        if company and line.lstrip().startswith("|"):
+            cells = [c for c in line.strip().split("|")[1:-1]]
+            if len(cells) < 2 or cells[0].lower() in {"role", "-------"}:
+                continue
+            links = URL_RE.findall(cells[1])
+            apply_url = next((u for u in links if not u.startswith("mailto:")), None)
+            if not apply_url or "🔒" in line:
+                continue
+            out.append({"company": company, "role": clean(cells[0]),
+                        "location": location, "url": apply_url.rstrip("),"), "age": 0})
     return out
 
 def load_list(path):
