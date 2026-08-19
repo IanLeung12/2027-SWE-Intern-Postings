@@ -115,6 +115,10 @@ h2 .n{color:var(--muted);font-weight:400;font-size:13px;margin-left:6px}
 .controls{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}
 input[type=search]{flex:1;min-width:200px;padding:9px 12px;border:1px solid var(--line);
 border-radius:8px;background:var(--panel);color:var(--ink);font-size:14px}
+textarea{width:100%;min-height:58px;padding:9px 12px;border:1px solid var(--line);
+border-radius:8px;background:var(--panel);color:var(--ink);font:14px inherit;resize:vertical}
+.exclude{width:100%;margin:0 0 10px}.exclude label{display:block;color:var(--muted);
+font-size:12px;margin-bottom:4px}.exclude small{color:var(--muted);font-size:11px}
 button{padding:8px 13px;border:1px solid var(--line);border-radius:8px;
 background:var(--panel);color:var(--ink);font-size:13px;cursor:pointer}
 button.on{background:var(--accent);border-color:var(--accent);color:#fff}
@@ -140,16 +144,23 @@ tr.hide{display:none}
 
 JS = """
 (function(){
-var q=document.getElementById('q'),rows=[].slice.call(document.querySelectorAll('tbody tr')),f='all';
-function apply(){var t=q.value.toLowerCase();
+var q=document.getElementById('q'),exclude=document.getElementById('exclude'),
+rows=[].slice.call(document.querySelectorAll('tbody tr')),f='all';
+try{exclude.value=localStorage.getItem('excludedCompanies')||'';}catch(e){}
+function list(){return exclude.value.split(/[\n,]+/).map(function(x){return x.trim().toLowerCase();}).filter(Boolean);}
+function apply(){var t=q.value.toLowerCase(),blocked=list();
  rows.forEach(function(r){var txt=r.textContent.toLowerCase();
-  var okT=!t||txt.indexOf(t)>-1,okF;
+  var company=r.querySelector('.co').textContent.trim().toLowerCase();
+  var okT=!t||txt.indexOf(t)>-1,okE=blocked.indexOf(company)<0,okF;
   if(f==='all')okF=true;
   else if(f==='new')okF=!!r.querySelector('.tag-new');
   else if(f==='off')okF=!/summer 2027/.test(txt);
   else okF=txt.indexOf(f.toLowerCase())>-1;
-  r.classList.toggle('hide',!(okT&&okF));});}
+  r.classList.toggle('hide',!(okT&&okE&&okF));});
+ try{localStorage.setItem('excludedCompanies',exclude.value);}catch(e){}
+}
 q.addEventListener('input',apply);
+exclude.addEventListener('input',apply);
 [].slice.call(document.querySelectorAll('button[data-f]')).forEach(function(b){
  b.addEventListener('click',function(){
   document.querySelectorAll('button[data-f]').forEach(function(x){x.classList.remove('on')});
@@ -171,7 +182,10 @@ def build_html(rows, ref):
     P.append('<div class="controls"><input type="search" id="q" placeholder="Filter by company, role, or location...">'
              '<button data-f="all" class="on">All</button><button data-f="new">New</button>'
              '<button data-f="Summer 2027">Summer 2027</button>'
-             '<button data-f="off">Winter / Spring</button></div>')
+             '<button data-f="off">Winter / Spring</button></div>'
+             '<div class="exclude"><label for="exclude">Exclude companies</label>'
+             '<textarea id="exclude" placeholder="One company per line or separate with commas"></textarea>'
+             '<small>Exclusions are saved in this browser and matched case-insensitively.</small></div>')
     for cat in ORDER:
         sub = sorted([r for r in rows if r["category"] == cat], key=sort_key)
         if not sub:
