@@ -50,5 +50,6 @@ jobs:
           delete-branch: true
           add-paths: |
             data/postings.tsv
+            data/categories.tsv
             README.md
             index.html

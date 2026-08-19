@@ -189,7 +189,15 @@ def load_categories():
         pairs.append((pat.strip().lower(), cat.strip()))
     return pairs
 
-def categorize(company, pairs):
+QUANT_ROLE_RE = re.compile(
+    r"\b(?:qt|qr|qd|quant(?:itative)?\s+(?:trader|trading|research(?:er)?|developer|dev))\b",
+    re.I,
+)
+
+def categorize(company, pairs, role="", source=""):
+    """Categorize using reliable source/role signals before name rules."""
+    if source == "NUFT Quant" or QUANT_ROLE_RE.search(role):
+        return "Quant", True
     low = company.lower()
     for pat, cat in pairs:
         if pat in low:
@@ -225,7 +233,7 @@ def main():
                   if USE_APPLIED_FILTER else (lambda _c: False))
     pairs = load_categories()
 
-    added, unknown, failures = [], [], []
+    added, unknown, failures, learned = [], [], [], []
     for name, url in TRACKERS.items():
         try:
             text = fetch(url)
@@ -243,9 +251,13 @@ def main():
                 continue
             if is_applied(r["company"]):
                 continue
-            cat, known = categorize(r["company"], pairs)
+            cat, known = categorize(r["company"], pairs, r["role"], name)
             if not known:
                 unknown.append(r["company"])
+            elif cat == "Quant" and not any(
+                    pat == r["company"].lower() and value == "Quant"
+                    for pat, value in pairs):
+                learned.append(r["company"])
             seen.add(norm_url(r["url"]))
             added.append({
                 "category": cat,
@@ -256,6 +268,15 @@ def main():
                 "added": (today - datetime.timedelta(days=r["age"])).isoformat(),
                 "url": r["url"],
             })
+
+    if learned and not args.dry_run:
+        existing_rules = {(pat, cat) for pat, cat in pairs}
+        with CATS.open("a", encoding="utf-8") as fh:
+            for company in sorted(set(learned), key=str.lower):
+                rule = (company.lower(), "Quant")
+                if rule not in existing_rules:
+                    fh.write(f"{rule[0]}\t{rule[1]}\n")
+                    existing_rules.add(rule)
 
     lines = [f"### Scan {today.isoformat()}", ""]
     lines.append(f"- trackers OK: {len(TRACKERS) - len(failures)}/{len(TRACKERS)}")

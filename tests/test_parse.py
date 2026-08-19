@@ -27,6 +27,9 @@ pairs = scan.load_categories()
 assert scan.categorize("Optiver", pairs) == ("Quant", True)
 assert scan.categorize("RTX", pairs)[0] == "Defense & Aero"
 assert scan.categorize("Weird Co", pairs) == ("Other", False), "unknown must be flagged"
+assert scan.categorize("Jane Street", pairs, "QT new", "sndsh404") == ("Quant", True)
+assert scan.categorize("Unknown Fund", pairs, "Quantitative Developer Intern", "sndsh404") == ("Quant", True)
+assert scan.categorize("Unknown Fund", pairs, "SWE Intern", "NUFT Quant") == ("Quant", True)
 
 applied = [a.lower() for a in scan.load_list(scan.APPLIED)]
 assert any(a in "citadel" for a in applied), "Citadel must be filtered as already-applied"
