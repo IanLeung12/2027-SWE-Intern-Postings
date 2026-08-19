@@ -193,11 +193,17 @@ QUANT_ROLE_RE = re.compile(
     r"\b(?:qt|qr|qd|quant(?:itative)?\s+(?:trader|trading|research(?:er)?|developer|dev))\b",
     re.I,
 )
+TECH_ROLE_RE = re.compile(
+    r"\b(?:swe|software engineer(?:ing)?|software developer|full[- ]stack|frontend|backend)\b",
+    re.I,
+)
 
 def categorize(company, pairs, role="", source=""):
     """Categorize using reliable source/role signals before name rules."""
-    if source == "NUFT Quant" or QUANT_ROLE_RE.search(role):
+    if QUANT_ROLE_RE.search(role):
         return "Quant", True
+    if TECH_ROLE_RE.search(role):
+        return "Tech", True
     low = company.lower()
     for pat, cat in pairs:
         if pat in low:
@@ -230,25 +236,21 @@ def main():
     seen = {norm_url(r["url"]) for r in existing}
 
     is_applied = (applied_matcher(load_list(APPLIED))
-                  if USE_APPLIED_FILTER else (lambda _c: False))
+    if USE_APPLIED_FILTER else (lambda _c: False))
     pairs = load_categories()
+    learned = {row.get("company", "") for row in existing
+               if QUANT_ROLE_RE.search(row.get("role", ""))}
+    pairs_for_scan = ([(company.lower(), "Quant") for company in learned] + pairs)
 
     reclassified = 0
     for row in existing:
-        category, known = categorize(row.get("company", ""), pairs,
+        category, known = categorize(row.get("company", ""), pairs_for_scan,
                                       row.get("role", ""))
         if known and row.get("category") != category:
             row["category"] = category
             reclassified += 1
 
-    if reclassified and not args.dry_run:
-        with DATA.open("w", newline="", encoding="utf-8") as fh:
-            writer = csv.DictWriter(fh, fieldnames=fields, delimiter="\t",
-                                    lineterminator="\n")
-            writer.writeheader()
-            writer.writerows(existing)
-
-    added, unknown, failures, learned = [], [], [], []
+    added, unknown, failures = [], [], []
     for name, url in TRACKERS.items():
         try:
             text = fetch(url)
@@ -266,13 +268,12 @@ def main():
                 continue
             if is_applied(r["company"]):
                 continue
-            cat, known = categorize(r["company"], pairs, r["role"], name)
+            cat, known = categorize(r["company"], pairs_for_scan, r["role"], name)
             if not known:
                 unknown.append(r["company"])
-            elif cat == "Quant" and not any(
-                    pat == r["company"].lower() and value == "Quant"
-                    for pat, value in pairs):
-                learned.append(r["company"])
+            elif cat == "Quant" and r["company"] not in learned:
+                learned.add(r["company"])
+                pairs_for_scan.insert(0, (r["company"].lower(), "Quant"))
             seen.add(norm_url(r["url"]))
             added.append({
                 "category": cat,
@@ -284,6 +285,15 @@ def main():
                 "url": r["url"],
             })
 
+    # A newly recognized Quant company retroactively classifies all of its
+    # existing and newly found postings, regardless of their individual role.
+    for row in existing + added:
+        category, known = categorize(row.get("company", ""), pairs_for_scan)
+        if known and row.get("category") != category:
+            row["category"] = category
+            if row in existing:
+                reclassified += 1
+
     if learned and not args.dry_run:
         existing_rules = {(pat, cat) for pat, cat in pairs}
         with CATS.open("a", encoding="utf-8") as fh:
@@ -292,6 +302,13 @@ def main():
                 if rule not in existing_rules:
                     fh.write(f"{rule[0]}\t{rule[1]}\n")
                     existing_rules.add(rule)
+
+    if reclassified and not args.dry_run:
+        with DATA.open("w", newline="", encoding="utf-8") as fh:
+            writer = csv.DictWriter(fh, fieldnames=fields, delimiter="\t",
+                                    lineterminator="\n")
+            writer.writeheader()
+            writer.writerows(existing)
 
     lines = [f"### Scan {today.isoformat()}", ""]
     lines.append(f"- trackers OK: {len(TRACKERS) - len(failures)}/{len(TRACKERS)}")
