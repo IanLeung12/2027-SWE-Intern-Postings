@@ -157,7 +157,7 @@ JS = """
 var q=document.getElementById('q'),exclude=document.getElementById('exclude'),
 rows=[].slice.call(document.querySelectorAll('tbody tr')),f='all';
 try{exclude.value=localStorage.getItem('excludedCompanies')||'';}catch(e){}
-function list(){return exclude.value.split(/[\n,]+/).map(function(x){return x.trim();}).filter(Boolean);}
+function list(){return exclude.value.split(/[\\n,]+/).map(function(x){return x.trim();}).filter(Boolean);}
 function norm(s){return s.toLowerCase().replace(/([a-z])([A-Z])/g,'$1 $2')
  .replace(/[^a-z0-9]+/g,' ').trim().replace(/\\s+/g,' ');}
 function acronym(s){return norm(s).split(' ').map(function(x){return x[0];}).join('');}
