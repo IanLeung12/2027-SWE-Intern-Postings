@@ -34,6 +34,10 @@ SHORT_DATE_RE = re.compile(r"^([A-Za-z]{3,9})\s+(\d{1,2})$")
 URL_RE = re.compile(r'https?://[^\s"\'<>)\]]+')
 MDLINK_RE = re.compile(r"\[([^\]]*)\]\([^)]*\)")
 TAG_RE = re.compile(r"<[^>]+>")
+EMOJI_RE = re.compile(
+    r"[\U0001F000-\U0001FAFF\U00002600-\U000027BF\U00002300-\U000023FF\U00002B00-\U00002BFF]"
+    r"|[\uFE0E\uFE0F\u200D]"
+)
 
 def fetch(url, timeout=30):
     req = urllib.request.Request(url, headers={"User-Agent": "2027-intern-scanner"})
@@ -44,6 +48,7 @@ def clean(cell):
     cell = MDLINK_RE.sub(r"\1", cell)
     cell = TAG_RE.sub("", cell)
     cell = cell.replace("**", "").replace("*", "").replace("🔒", "")
+    cell = EMOJI_RE.sub("", cell)
     return " ".join(cell.split()).strip()
 
 def age_days(cell):
@@ -243,12 +248,19 @@ def main():
     pairs_for_scan = ([(company.lower(), "Quant") for company in learned] + pairs)
 
     reclassified = 0
+    rewritten = False
     for row in existing:
+        for field in ("company", "role", "location"):
+            normalized = clean(row.get(field, ""))
+            if normalized != row.get(field, ""):
+                row[field] = normalized
+                rewritten = True
         category, known = categorize(row.get("company", ""), pairs_for_scan,
                                       row.get("role", ""))
         if known and row.get("category") != category:
             row["category"] = category
             reclassified += 1
+            rewritten = True
 
     added, unknown, failures = [], [], []
     for name, url in TRACKERS.items():
@@ -293,6 +305,7 @@ def main():
             row["category"] = category
             if row in existing:
                 reclassified += 1
+                rewritten = True
 
     if learned and not args.dry_run:
         existing_rules = {(pat, cat) for pat, cat in pairs}
@@ -303,7 +316,7 @@ def main():
                     fh.write(f"{rule[0]}\t{rule[1]}\n")
                     existing_rules.add(rule)
 
-    if reclassified and not args.dry_run:
+    if rewritten and not args.dry_run:
         with DATA.open("w", newline="", encoding="utf-8") as fh:
             writer = csv.DictWriter(fh, fieldnames=fields, delimiter="\t",
                                     lineterminator="\n")

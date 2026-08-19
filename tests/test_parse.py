@@ -43,6 +43,7 @@ assert any(a in "citadel" for a in applied), "Citadel must be filtered as alread
 assert scan.norm_url("https://a.com/x/?utm=1") == scan.norm_url("https://a.com/x")
 assert scan.guess_term("SWE Intern Winter 2027", "") == "Winter 2027"
 assert scan.guess_term("SWE Intern", "") == "Summer 2027"
+assert scan.clean("🔥 TikTok Software Engineer Intern 🎓") == "TikTok Software Engineer Intern"
 
 # Source-format regression coverage: HTML tables, calendar dates, and NUFT's
 # undated company-section format.

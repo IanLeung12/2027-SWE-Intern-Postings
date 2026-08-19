@@ -4,7 +4,7 @@
 Single source of truth is data/postings.tsv. Edit that, then run:
     python3 scripts/build.py
 """
-import csv, datetime, html, pathlib, sys
+import csv, datetime, html, pathlib, re, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "postings.tsv"
@@ -19,6 +19,14 @@ BLURB = {
     "Other": "Everything else that cleared the bar.",
 }
 
+EMOJI_RE = re.compile(
+    r"[\U0001F000-\U0001FAFF\U00002600-\U000027BF\U00002300-\U000023FF\U00002B00-\U00002BFF]"
+    r"|[\uFE0E\uFE0F\u200D]"
+)
+
+def clean_posting_text(value):
+    return " ".join(EMOJI_RE.sub("", value).split()).strip()
+
 def today():
     return datetime.date.today()
 
@@ -30,6 +38,8 @@ def load():
     for row in rows:
         if row["category"] in {"Defense & Aero", "Finance"}:
             row["category"] = "Other"
+        for field in ("company", "role", "location"):
+            row[field] = clean_posting_text(row[field])
     return rows
 
 def parse(d):
