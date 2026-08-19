@@ -633,11 +633,17 @@ var q=document.getElementById('q'),exclude=document.getElementById('exclude'),
 rows=[].slice.call(document.querySelectorAll('tbody tr')),f='all';
 try{exclude.value=localStorage.getItem('excludedCompanies')||'';}catch(e){}
 function list(){return exclude.value.split(/[
-,]+/).map(function(x){return x.trim().toLowerCase();}).filter(Boolean);}
+,]+/).map(function(x){return x.trim();}).filter(Boolean);}
+function norm(s){return s.toLowerCase().replace(/([a-z])([A-Z])/g,'$1 $2')
+ .replace(/[^a-z0-9]+/g,' ').trim().replace(/\s+/g,' ');}
+function acronym(s){return norm(s).split(' ').map(function(x){return x[0];}).join('');}
+function excluded(company,blocked){var c=norm(company),a=acronym(company);
+ return blocked.some(function(x){var b=norm(x);return b&&(c===b||c.indexOf(b)>-1||
+  (b.length>=3&&a===b));});}
 function apply(){var t=q.value.toLowerCase(),blocked=list();
- rows.forEach(function(r){var txt=r.textContent.toLowerCase();
+  rows.forEach(function(r){var txt=r.textContent.toLowerCase();
   var company=r.querySelector('.co').textContent.trim().toLowerCase();
-  var okT=!t||txt.indexOf(t)>-1,okE=blocked.indexOf(company)<0,okF;
+  var okT=!t||txt.indexOf(t)>-1,okE=!excluded(company,blocked),okF;
   if(f==='all')okF=true;
   else if(f==='new')okF=!!r.querySelector('.tag-new');
   else if(f==='off')okF=!/summer 2027/.test(txt);
