@@ -2,11 +2,11 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**559 open postings** &middot; last updated 2026-08-19 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**583 open postings** &middot; last updated 2026-08-19 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
-## Quant <sub>(175)</sub>
+## Quant <sub>(176)</sub>
 
 *Trading firms, market makers and hedge funds.*
 
@@ -37,6 +37,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **IMC Trading** :sparkles: | QR | Summer 2027 | Chicago | 2026-08-19 | [Apply](https://www.imc.com/us/careers/jobs/4907399101) |
 | **IMC Trading** :sparkles: | QT | Summer 2027 | Chicago | 2026-08-19 | [Apply](https://www.imc.com/us/careers/jobs/4823923101) |
 | **IMC Trading** :sparkles: | SWE | Summer 2027 | Chicago | 2026-08-19 | [Apply](https://www.imc.com/us/careers/jobs/4823924101) |
+| **InfiniteQuant** :sparkles: | Quantitative Developer Internship - Summer 2027 | Summer 2027 | Dubai - United Arab EmiratesNYC | 2026-08-19 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579?utm_source=Simplify&ref=Simplify) |
 | **Jane Street** :sparkles: | FPGA | Summer 2027 | NYC | 2026-08-19 | [Apply](https://www.janestreet.com/join-jane-street/position/8624440002/) |
 | **Jane Street** :sparkles: | QR | Summer 2027 | NYC | 2026-08-19 | [Apply](https://www.janestreet.com/join-jane-street/position/8498547002/) |
 | **Jane Street** :sparkles: | QT | Summer 2027 | NYC | 2026-08-19 | [Apply](https://www.janestreet.com/join-jane-street/position/8617344002/) |
@@ -188,7 +189,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Virtu Financial** | Quantitative Research Intern - Quant Research - Undergrad | Summer 2027 | NYC | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002?utm_source=Simplify&ref=Simplify) |
 | **Voloridge** | Quantitative Research Intern | Summer 2027 | Jupiter, FL | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009?utm_source=Simplify&ref=Simplify) |
 
-## Tech <sub>(199)</sub>
+## Tech <sub>(219)</sub>
 
 *Big tech, AI labs and established technology companies.*
 
@@ -196,7 +197,27 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | --- | --- | --- | --- | --- | --- |
 | **American Express** :sparkles: | Software Engineer Intern - Enterprise Technology Services | Summer 2027 | Sunrise, FL | 2026-08-19 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015?utm_source=Simplify&ref=Simplify) |
 | **American Express** :sparkles: | Software Engineer Intern - Enterprise Technology Services | Summer 2027 | Phoenix, AZ | 2026-08-19 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781?utm_source=Simplify&ref=Simplify) |
+| **ByteDance** :sparkles: | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Summer 2027 | Seattle, WA | 2026-08-19 | [Apply](https://jobs.bytedance.com/en/position/7675477254269765941/detail?utm_source=Simplify&ref=Simplify) |
+| **ByteDance** :sparkles: | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Summer 2027 | San Jose, CA | 2026-08-19 | [Apply](https://jobs.bytedance.com/en/position/7675478684795881781/detail?utm_source=Simplify&ref=Simplify) |
 | **Garda Capital Partners** :sparkles: | Software Engineer Intern | Summer 2027 | NYC | 2026-08-19 | [Apply](https://job-boards.greenhouse.io/gardacp/jobs/6146213004?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Computer Architecture and Systems Intern - Research | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Computer Architecture Intern | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Computer Vision and Deep Learning Intern | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Deep Learning Computer Architecture Intern | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Developer and Performance Technology Intern | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Generative AI Ph.D. Research Intern | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Hardware ASIC Design Intern - Hardware | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Hardware Design for Test Intern - DFT | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Hardware Engineering Intern | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Hardware Physical Design / VLSI Intern | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Hardware Verification Intern | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Large Language Models Intern - Research | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Mixed Signal Design Intern | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Ph.D. Engineering Intern | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Ph.D. Research Autonomous Vehicles Intern | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Ph.D. Research Hardware Intern | Summer 2027 | Santa Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855?utm_source=Simplify&ref=Simplify) |
+| **NVIDIA** :sparkles: | Software Engineering Intern | Summer 2027 | CanadaSanta Clara, CA | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify) |
 | **TikTok** :sparkles: | Software Engineer Intern - TikTok Search Data Infra | Summer 2027 | San Jose, CA | 2026-08-19 | [Apply](https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify) |
 | **American Express** :sparkles: | Software Engineer Intern - Enterprise Technology Services | Summer 2027 | Phoenix, AZ | 2026-08-18 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784?utm_source=Simplify&ref=Simplify) |
 | **American Express** :sparkles: | Software Engineer Intern - Enterprise Technology Services | Summer 2027 | Sunrise, FL | 2026-08-18 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084?utm_source=Simplify&ref=Simplify) |
@@ -411,7 +432,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Cybernetic Labs** | Software Engineer Intern - Agent Platform | Summer 2027 | SF | 2026-07-20 | [Apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **Databricks** | Product Management Intern | Summer 2027 | SFBellevue, WAMountain View, CA | 2026-07-20 | [Apply](https://boards.greenhouse.io/embed/job_app?token=6883068002&utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(175)</sub>
+## Other <sub>(178)</sub>
 
 *Everything else that cleared the bar.*
 
@@ -433,6 +454,8 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **American Express** :sparkles: | AI Engineer Intern - Enterprise Technology Services | Summer 2027 | NYC | 2026-08-18 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991?utm_source=Simplify&ref=Simplify) |
 | **American Express** :sparkles: | AI Engineer Intern - Enterprise Technology Services | Summer 2027 | Sunrise, FL | 2026-08-18 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745?utm_source=Simplify&ref=Simplify) |
 | **Arthur J. Gallagher & Co.** :sparkles: | Data Analytics Intern | Summer 2027 | Rolling Meadows, IL | 2026-08-18 | [Apply](https://jobs.ajg.com/jobs/57701?icims=1&utm_source=Simplify&ref=Simplify) |
+| **Continental Resources** :sparkles: | Data Analyst Intern | Summer 2027 | Oklahoma City, OK | 2026-08-18 | [Apply](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1?utm_source=Simplify&ref=Simplify) |
+| **Continental Resources** :sparkles: | Geoscience Intern | Summer 2027 | Oklahoma City, OK | 2026-08-18 | [Apply](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Geoscience-Intern--Summer-2027-_R02592-1?utm_source=Simplify&ref=Simplify) |
 | **Deutsche Bank** :sparkles: | Technology, Data and Innovation Intern - Technology, Data and Innovation | Summer 2027 | NYC | 2026-08-18 | [Apply](https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w?utm_source=Simplify&ref=Simplify) |
 | **Dimensional Fund Advisors** :sparkles: | Global Client Group Intern - Data and Tools - Undergraduate and Master's | Summer 2027 | Austin, TX | 2026-08-18 | [Apply](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003?utm_source=Simplify&ref=Simplify) |
 | **Dimensional Fund Advisors** :sparkles: | Global Client Group Operations Insights Intern - Undergraduate & Master's | Summer 2027 | Austin, TX | 2026-08-18 | [Apply](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Insights--Undergraduate---Master-s-_2026-9002?utm_source=Simplify&ref=Simplify) |
@@ -462,6 +485,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **GE Aerospace** :sparkles: | Digital Technology Intern - Summer 2027 | Summer 2027 | Livonia, MI | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Livonia/Digital-Technology-Intern---US---Livonia--MI---Summer-2027_R5038079-1?utm_source=Simplify&ref=Simplify) |
 | **KeyBank** :sparkles: | Data Intern - Key Technology & Services - Data Track | Summer 2027 | Brooklyn, OH | 2026-08-17 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385?utm_source=Simplify&ref=Simplify) |
 | **KeyBank** :sparkles: | Technology Track Intern - Key Technology and Services | Summer 2027 | Brooklyn, OH | 2026-08-17 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Technology-Track-Internship--Cleveland_R-41382?utm_source=Simplify&ref=Simplify) |
+| **RTX** :sparkles: | Modeling, Simulation & Analysis Intern - Summer 2027 | Summer 2027 | Tucson, AZ | 2026-08-17 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern--Summer-2027-_01867118?utm_source=Simplify&ref=Simplify) |
 | **RTX** :sparkles: | Software Engineer Intern | Summer 2027 | Cedar Rapids, IA | 2026-08-17 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487?utm_source=Simplify&ref=Simplify) |
 | **RTX** :sparkles: | Software Engineer Intern - Spring 2027 | Spring 2027 | Melbourne, FL | 2026-08-17 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146?utm_source=Simplify&ref=Simplify) |
 | **RTX** :sparkles: | Software Engineer Intern - Summer 2027 | Summer 2027 | Indianapolis, IN | 2026-08-17 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01867067?utm_source=Simplify&ref=Simplify) |
