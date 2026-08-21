@@ -2,11 +2,11 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**587 open postings** &middot; last updated 2026-08-21 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**545 open postings** &middot; last updated 2026-08-21 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
-## Quant <sub>(142)</sub>
+## Quant <sub>(138)</sub>
 
 *Trading firms, market makers and hedge funds.*
 
@@ -421,7 +421,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Heliux** | Software Engineer Intern | Summer 2027 | San Francisco, CA | 2026-08-03 | [Apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef?utm_source=github-vansh-ouckah) |
 | **Heliux** | Software Engineer Intern | Summer 2027 | SF | 2026-08-01 | [Apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true&utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(193)</sub>
+## Other <sub>(182)</sub>
 
 *Everything else that cleared the bar.*
 
