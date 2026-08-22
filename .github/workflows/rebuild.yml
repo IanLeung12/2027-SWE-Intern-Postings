@@ -1,0 +1,56 @@
+name: Rebuild generated files
+
+# README.md and index.html are generated from data/postings.tsv, so they are
+# rebuilt here on main and nowhere else. The daily-scan PR deliberately carries
+# only data/*.tsv: if a PR branch also regenerated these files they would
+# conflict with every rebuild commit on main (build.py stamps the current date
+# and drops rows past the staleness cutoff, so the same lines get rewritten on
+# both sides).
+#
+# This is also the only place stale rows are dropped from data/postings.tsv
+# (build.py rewrites it), so main only ever deletes old rows while the scan PR
+# only ever adds new ones -- two edits that git merges without conflict.
+#
+# Runs on a schedule so rows age off even on days nothing new is added, and on
+# every push to main so a merged scan PR is reflected immediately.
+on:
+  schedule:
+    - cron: '0 11 * * *'          # 11:00, half an hour before the scan
+      timezone: 'America/New_York'
+  push:
+    branches: [main]
+    paths:
+      - 'data/postings.tsv'
+      - 'data/categories.tsv'
+      - 'scripts/build.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rebuild-main
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 scripts/build.py
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain README.md index.html data/postings.tsv)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md index.html data/postings.tsv
+            git commit -m "chore: rebuild generated files"
+            # Another job may have landed on main while this one ran.
+            git pull --rebase --autostash origin main
+            git push
+          else
+            echo "no changes"
+          fi
