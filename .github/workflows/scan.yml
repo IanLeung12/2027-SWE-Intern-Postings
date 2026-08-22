@@ -9,8 +9,11 @@ name: Daily scan
 # sources that failed and companies with no category rule.
 
 on:
+  # Half an hour after rebuild.yml, so the scan starts from an already-pruned
+  # main and its PR is a pure addition of newly found rows.
   schedule:
-    - cron: '0 15 * * *'
+    - cron: '30 11 * * *'
+      timezone: 'America/New_York'
   workflow_dispatch:
     inputs:
       days:
@@ -37,8 +40,15 @@ jobs:
       - name: Scan trackers
         run: python3 scripts/scan.py --days "${{ github.event.inputs.days || 2 }}"
 
-      - name: Rebuild README and site
-        run: python3 scripts/build.py
+      # Sanity check only -- nothing build.py touches is committed to the PR.
+      # README.md/index.html and the dropping of stale TSV rows are all handled
+      # on main by rebuild.yml. Keeping them off the branch is what stops the
+      # daily merge conflict: the PR diff becomes purely additive.
+      - name: Verify the site still builds
+        run: |
+          cp data/postings.tsv "$RUNNER_TEMP/postings.tsv"
+          python3 scripts/build.py
+          mv "$RUNNER_TEMP/postings.tsv" data/postings.tsv
 
       - name: Open PR if anything changed
         uses: peter-evans/create-pull-request@v6
@@ -51,5 +61,3 @@ jobs:
           add-paths: |
             data/postings.tsv
             data/categories.tsv
-            README.md
-            index.html
