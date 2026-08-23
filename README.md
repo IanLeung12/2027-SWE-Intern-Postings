@@ -2,16 +2,17 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**622 open postings** &middot; last updated 2026-08-23 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**623 open postings** &middot; last updated 2026-08-23 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
-## Quant <sub>(134)</sub>
+## Quant <sub>(135)</sub>
 
 *Trading firms, market makers and hedge funds.*
 
 | Company | Role | Term | Location | Added | Apply |
 | --- | --- | --- | --- | --- | --- |
+| **Virtu Financial** :sparkles: | QR | Summer 2027 | NYC, Austin | 2026-08-23 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624424002) |
 | **Hudson River Trading** :sparkles: | QR | Summer 2027 | NYC | 2026-08-21 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062&gh_src=f4cuomjz1us) |
 | **Millennium** :sparkles: | Applied AI Engineer Intern | Summer 2027 | Miami, FL | 2026-08-21 | [Apply](https://career.mlp.com/careers/job/755957778848?utm_source=github-vansh-ouckah) |
 | **Millennium** :sparkles: | Quantitative Developer Intern | Summer 2027 | New York, NY | 2026-08-21 | [Apply](https://career.mlp.com/careers/job/755957819661?utm_source=github-vansh-ouckah) |
