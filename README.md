@@ -2,11 +2,11 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**647 open postings** &middot; last updated 2026-08-25 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**644 open postings** &middot; last updated 2026-08-26 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
-## Quant <sub>(108)</sub>
+## Quant <sub>(106)</sub>
 
 *Trading firms, market makers and hedge funds.*
 
@@ -118,10 +118,8 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **DRW** | Software Developer Intern | Summer 2027 | Montréal | 2026-07-31 | [Apply](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687?utm_source=github-vansh-ouckah) |
 | **University of Virginia Investment Management Company (UVIMCO)** | Investment Analyst Intern | Summer 2027 | Charlottesville, VA | 2026-07-30 | [Apply](https://job-boards.greenhouse.io/uvimco/jobs/5300713008?utm_source=Simplify&ref=Simplify) |
 | **Virtu Financial** | Frontend Developer Internship | Summer 2027 | NYC | 2026-07-30 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002?utm_source=Simplify&ref=Simplify) |
-| **Quadrillion Labs** | Software Engineering Intern | Summer 2027 | New York, NY | 2026-07-26 | [Apply](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05?utm_source=github-vansh-ouckah) |
-| **Stevens Capital Management** | Quantitative Research Analyst Internship | Summer 2027 | Radnor, PA | 2026-07-26 | [Apply](https://job-boards.greenhouse.io/scm/jobs/721895?utm_source=github-vansh-ouckah) |
 
-## Tech <sub>(267)</sub>
+## Tech <sub>(266)</sub>
 
 *Big tech, AI labs and established technology companies.*
 
@@ -153,9 +151,9 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Mastercard** :sparkles: | Software Engineer Intern | Summer 2027 | 4 locationsO'Fallon, MOArlington County, Arlington, VANYCAtlanta, GA | 2026-08-24 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1?utm_source=Simplify&ref=Simplify) |
 | **Motorola** :sparkles: | Android Application Developer Intern - Summer 2027 | Summer 2027 | Chicago, IL | 2026-08-24 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740?utm_source=Simplify&ref=Simplify) |
 | **The Hartford** :sparkles: | Software Engineer Intern - Tech & Data Program | Summer 2027 | Hartford, CT | 2026-08-24 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1?utm_source=Simplify&ref=Simplify) |
-| **TikTok** :sparkles: | AI Product Manager Intern - Product Social | Summer 2027 | San Jose, CA | 2026-08-22 | [Apply](https://lifeattiktok.com/search/7675616554318596357?utm_source=Simplify&ref=Simplify) |
-| **TikTok** :sparkles: | Product Manager Intern - Content and Service Ads | Summer 2027 | San Jose, CA | 2026-08-22 | [Apply](https://lifeattiktok.com/search/7676283436713593093?utm_source=Simplify&ref=Simplify) |
-| **TikTok** :sparkles: | Software Engineer Intern | Summer 2027 | San Jose, CA | 2026-08-22 | [Apply](https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify) |
+| **TikTok** | AI Product Manager Intern - Product Social | Summer 2027 | San Jose, CA | 2026-08-22 | [Apply](https://lifeattiktok.com/search/7675616554318596357?utm_source=Simplify&ref=Simplify) |
+| **TikTok** | Product Manager Intern - Content and Service Ads | Summer 2027 | San Jose, CA | 2026-08-22 | [Apply](https://lifeattiktok.com/search/7676283436713593093?utm_source=Simplify&ref=Simplify) |
+| **TikTok** | Software Engineer Intern | Summer 2027 | San Jose, CA | 2026-08-22 | [Apply](https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify) |
 | **AMD** | Data Analyst Intern/Co-op | Summer 2027 | San Jose, CASanta Clara, CA | 2026-08-21 | [Apply](https://careers.amd.com/jobs/90895?icims=1&utm_source=Simplify&ref=Simplify) |
 | **AMD** | Data Analyst Intern/Co-op | Summer 2027 | 6 locationsRochester, NYAustin, TXLongmont, COFishkill, NYFort Collins, COBoxborough, MA | 2026-08-21 | [Apply](https://careers.amd.com/jobs/91183?icims=1&utm_source=Simplify&ref=Simplify) |
 | **AMD** | Data Analyst Intern/Co-op | Summer 2027 | 6 locationsRochester, NYAustin, TXLongmont, COFishkill, NYFort Collins, COBoxborough, MA | 2026-08-21 | [Apply](https://careers.amd.com/jobs/91175?icims=1&utm_source=Simplify&ref=Simplify) |
@@ -393,7 +391,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Melius** | Software Engineer Intern | Summer 2027 | NYC | 2026-08-01 | [Apply](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **Western Digital** | Hardware Engineering Intern | Summer 2027 | 6 locationsFremont, CARochester, MNSan Jose, CAIrvine, CAColorado Springs, COLongmont, CO | 2026-08-01 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000140949875?utm_source=Simplify&ref=Simplify) |
 | **Appian** | Information Security Engineer Intern | Summer 2027 | McLean, VA | 2026-07-27 | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496?utm_source=github-vansh-ouckah) |
-| **HyperLight** | Software Engineer Intern | Summer 2027 | Cambridge, MA | 2026-07-26 | [Apply](https://apply.workable.com/hyperlight/j/5581EA0668/?utm_source=github-vansh-ouckah) |
 
 ## Startups <sub>(7)</sub>
 
@@ -453,18 +450,18 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **RTX** :sparkles: | Software Engineer Intern | Summer 2027 | Annapolis Junction, MD | 2026-08-24 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern_01869058?utm_source=Simplify&ref=Simplify) |
 | **The Hartford** :sparkles: | Data Engineer Intern - Tech & Data Program | Summer 2027 | Columbus, OH | 2026-08-24 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610?utm_source=Simplify&ref=Simplify) |
 | **The Hartford** :sparkles: | Data Engineer Intern - Technology, Data, AI, and Operations | Summer 2027 | Hartford, CT | 2026-08-24 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1?utm_source=Simplify&ref=Simplify) |
-| **Hitachi** :sparkles: | Engineering Intern | Summer 2027 | Raleigh, NC | 2026-08-22 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571?utm_source=Simplify&ref=Simplify) |
-| **Springs Window Fashions** :sparkles: | AI Analyst Intern - Consumer Business Unit | Summer 2027 | Middleton, WI | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Springs Window Fashions** :sparkles: | Application Engineering Intern - Summer 2027 | Summer 2027 | Long Island City, Queens, NY | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Springs Window Fashions** :sparkles: | Data Analyst Intern - Consumer Business Unit | Summer 2027 | Middleton, WI | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Springs Window Fashions** :sparkles: | Dealer Business Operations & Analytics Intern - Summer 2027 | Summer 2027 | Middleton, WI | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Springs Window Fashions** :sparkles: | Product Management Competitive Product Assessment Intern - Summer 2027 | Summer 2027 | Middleton, WI | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Springs Window Fashions** :sparkles: | Product Management Dashboard Analytics Intern | Summer 2027 | Middleton, WI | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Springs Window Fashions** :sparkles: | Product Management Intern | Summer 2027 | Long Island City, Queens, NY | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Springs Window Fashions** :sparkles: | Textile Engineering Intern - Summer 2027 | Summer 2027 | Middleton, WI | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Susquehanna International Group** :sparkles: | Quantitative Strategy Developer Intern | Summer 2027 | London, UKDublin, Ireland | 2026-08-22 | [Apply](https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Susquehanna International Group** :sparkles: | Trading Systems Engineer Intern | Summer 2027 | London, UK | 2026-08-22 | [Apply](https://careers-sig.icims.com/jobs/11334/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Vertiv** :sparkles: | Product Management Intern - Product Marketing | Summer 2027 | Delaware, OH | 2026-08-22 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279047?utm_source=Simplify&ref=Simplify) |
+| **Hitachi** | Engineering Intern | Summer 2027 | Raleigh, NC | 2026-08-22 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571?utm_source=Simplify&ref=Simplify) |
+| **Springs Window Fashions** | AI Analyst Intern - Consumer Business Unit | Summer 2027 | Middleton, WI | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| **Springs Window Fashions** | Application Engineering Intern - Summer 2027 | Summer 2027 | Long Island City, Queens, NY | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| **Springs Window Fashions** | Data Analyst Intern - Consumer Business Unit | Summer 2027 | Middleton, WI | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| **Springs Window Fashions** | Dealer Business Operations & Analytics Intern - Summer 2027 | Summer 2027 | Middleton, WI | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| **Springs Window Fashions** | Product Management Competitive Product Assessment Intern - Summer 2027 | Summer 2027 | Middleton, WI | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| **Springs Window Fashions** | Product Management Dashboard Analytics Intern | Summer 2027 | Middleton, WI | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| **Springs Window Fashions** | Product Management Intern | Summer 2027 | Long Island City, Queens, NY | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| **Springs Window Fashions** | Textile Engineering Intern - Summer 2027 | Summer 2027 | Middleton, WI | 2026-08-22 | [Apply](https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| **Susquehanna International Group** | Quantitative Strategy Developer Intern | Summer 2027 | London, UKDublin, Ireland | 2026-08-22 | [Apply](https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| **Susquehanna International Group** | Trading Systems Engineer Intern | Summer 2027 | London, UK | 2026-08-22 | [Apply](https://careers-sig.icims.com/jobs/11334/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| **Vertiv** | Product Management Intern - Product Marketing | Summer 2027 | Delaware, OH | 2026-08-22 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279047?utm_source=Simplify&ref=Simplify) |
 | **American Express** | Cybersecurity Intern | Summer 2027 | Phoenix, AZ | 2026-08-21 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460?utm_source=github-vansh-ouckah) |
 | **American Express** | Cybersecurity Intern | Summer 2027 | Phoenix, AZ | 2026-08-21 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462?utm_source=github-vansh-ouckah) |
 | **Auto-Owners Insurance** | Predictive Modeler Intern - Summer 2027 | Summer 2027 | Lansing, MI | 2026-08-21 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Predictive-Modeler-Intern---Summer-2022_R_3833?utm_source=Simplify&ref=Simplify) |
