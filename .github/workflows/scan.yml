@@ -12,7 +12,7 @@ on:
   # Half an hour after rebuild.yml, so the scan starts from an already-pruned
   # main and its PR is a pure addition of newly found rows.
   schedule:
-    - cron: '30 11 * * *'
+    - cron: '37 11 * * *'
       timezone: 'America/New_York'
   workflow_dispatch:
     inputs:

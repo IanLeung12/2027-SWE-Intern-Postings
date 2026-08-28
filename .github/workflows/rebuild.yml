@@ -15,7 +15,7 @@ name: Rebuild generated files
 # every push to main so a merged scan PR is reflected immediately.
 on:
   schedule:
-    - cron: '0 11 * * *'          # 11:00, half an hour before the scan
+    - cron: '7 11 * * *'          # 11:07, half an hour before the scan
       timezone: 'America/New_York'
   push:
     branches: [main]
