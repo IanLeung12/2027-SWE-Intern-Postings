@@ -2,7 +2,7 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**771 open postings** &middot; last updated 2026-08-29 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**780 open postings** &middot; last updated 2026-08-29 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
@@ -124,12 +124,16 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **University of Virginia Investment Management Company (UVIMCO)** | Investment Analyst Intern | Summer 2027 | Charlottesville, VA | 2026-07-30 | [Apply](https://job-boards.greenhouse.io/uvimco/jobs/5300713008?utm_source=Simplify&ref=Simplify) |
 | **Virtu Financial** | Frontend Developer Internship | Summer 2027 | NYC | 2026-07-30 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002?utm_source=Simplify&ref=Simplify) |
 
-## Tech <sub>(300)</sub>
+## Tech <sub>(304)</sub>
 
 *Big tech, AI labs and established technology companies.*
 
 | Company | Role | Term | Location | Added | Apply |
 | --- | --- | --- | --- | --- | --- |
+| **Charles Schwab** :sparkles: | Software Engineering Intern - Technology | Summer 2027 | 6 locationsAustin, TXWestlake, TXAnn Arbor, MISouthlake, TXOmaha, NEPhoenix, AZ | 2026-08-29 | [Apply](https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| **Intuit** :sparkles: | Software Engineer Intern - Full Stack | Summer 2027 | 5 locationsCharlotte, NCNYCMountain View, CAAtlanta, GASan Diego, CA | 2026-08-29 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify) |
+| **Northwood Space** :sparkles: | Embedded Software Engineer Intern | Summer 2027 | LATorrance, CA | 2026-08-29 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| **Northwood Space** :sparkles: | Software Engineer Intern - Multiple Teams | Summer 2027 | LATorrance, CA | 2026-08-29 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **Booz Allen** :sparkles: | AI Software Developer Intern | Summer 2027 | San Diego, CA | 2026-08-28 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115?utm_source=Simplify&ref=Simplify) |
 | **Booz Allen** :sparkles: | Software Developer Intern - Summer Games | Summer 2027 | Rome, NY | 2026-08-28 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141?utm_source=Simplify&ref=Simplify) |
 | **Booz Allen** :sparkles: | Software Developer Intern - University | Summer 2027 | Charleston, SC | 2026-08-28 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134?utm_source=Simplify&ref=Simplify) |
@@ -445,15 +449,19 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Heliux** | Software Engineer Intern | Summer 2027 | San Francisco, CA | 2026-08-03 | [Apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef?utm_source=github-vansh-ouckah) |
 | **Heliux** | Software Engineer Intern | Summer 2027 | SF | 2026-08-01 | [Apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true&utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(353)</sub>
+## Other <sub>(358)</sub>
 
 *Everything else that cleared the bar.*
 
 | Company | Role | Term | Location | Added | Apply |
 | --- | --- | --- | --- | --- | --- |
+| **Charles Schwab** :sparkles: | Data Engineering Intern - Data Engineering | Summer 2027 | Austin, TXWestlake, TXSouthlake, TX | 2026-08-29 | [Apply](https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | **CSX** :sparkles: | Engineering Intern - Positive Train Control - Paid | Summer 2027 | Jacksonville, FL | 2026-08-29 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54826?utm_source=Simplify&ref=Simplify) |
 | **CSX** :sparkles: | Intermodal Intern - Summer 2027 - Paid | Summer 2027 | Jacksonville, FL | 2026-08-29 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817?utm_source=Simplify&ref=Simplify) |
 | **CSX** :sparkles: | Technology Intern - Paid | Summer 2027 | Jacksonville, FL | 2026-08-29 | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54806?utm_source=Simplify&ref=Simplify) |
+| **Northwood Space** :sparkles: | RF Engineer Intern - Summer Internship | Summer 2027 | LATorrance, CA | 2026-08-29 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| **Northwood Space** :sparkles: | Supply Chain Data & Analytics Intern | Summer 2027 | LATorrance, CA | 2026-08-29 | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| **Persona AI** :sparkles: | Robotics Software Intern - Manipulation | Summer 2027 | Houston, TX | 2026-08-29 | [Apply](https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **Schroders** :sparkles: | Product Intern | Summer 2027 | London, UK | 2026-08-29 | [Apply](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1952?utm_source=Simplify&ref=Simplify) |
 | **Schroders** :sparkles: | Public Markets Quants Intern - Quants (Public Markets) | Summer 2027 | London, UK | 2026-08-29 | [Apply](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941?utm_source=Simplify&ref=Simplify) |
 | **Vertiv** :sparkles: | Service Technology Research Intern - Summer 2027 | Summer 2027 | Westerville, OH | 2026-08-29 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351?utm_source=Simplify&ref=Simplify) |
@@ -472,6 +480,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Mastercard** :sparkles: | Data Engineer Intern | Summer 2027 | O'Fallon, MO | 2026-08-28 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284901?utm_source=Simplify&ref=Simplify) |
 | **Mastercard** :sparkles: | Data Scientist Intern - Summer 2027 | Summer 2027 | O'Fallon, MO | 2026-08-28 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284869?utm_source=Simplify&ref=Simplify) |
 | **Nationwide** :sparkles: | Economics Intern | Summer 2027 | Columbus, OH | 2026-08-28 | [Apply](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Economics-Internship_100099?utm_source=Simplify&ref=Simplify) |
+| **Philips** :sparkles: | Data AI/ML Engineer Intern - Image Guided Therapy Devices - Software R&D | Summer 2027 | Plymouth, MN | 2026-08-28 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404?utm_source=Simplify&ref=Simplify) |
 | **TELUS Digital** :sparkles: | Product Analyst Intern | Summer 2027 | Columbus, OH | 2026-08-28 | [Apply](https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **The Walt Disney Company** :sparkles: | Pricing & Product Development Intern - Spring 2027 | Spring 2027 | Lake Buena Vista, FL | 2026-08-28 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Pricing---Product-Development-Intern--Spring-2027_10158266?utm_source=Simplify&ref=Simplify) |
 | **Air Products** :sparkles: | Information Technology/Digital Technology Intern - Infrastructure Services | Summer 2027 | Allentown, PA | 2026-08-27 | [Apply](https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953?utm_source=Simplify&ref=Simplify) |
