@@ -2,7 +2,7 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**1292 open postings** &middot; last updated 2026-09-09 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**1286 open postings** &middot; last updated 2026-09-10 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
@@ -494,7 +494,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Replit** | Software Engineer Intern - Summer 2027 | Summer 2027 | Foster City, CA | 2026-08-16 | [Apply](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **Notion** | Software Engineer Intern - Summer 2027 | Summer 2027 | SFNYC | 2026-08-15 | [Apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true&utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(825)</sub>
+## Other <sub>(819)</sub>
 
 *Everything else that cleared the bar.*
 
@@ -1319,12 +1319,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **RTX** | Software Development Intern - Summer 2027 | Summer 2027 | Tewksbury, MA | 2026-08-11 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635?utm_source=Simplify&ref=Simplify) |
 | **Vertiv** | Product Management Intern | Summer 2027 | Westerville, OH | 2026-08-11 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933?utm_source=Simplify&ref=Simplify) |
 | **Vertiv** | Thermal Engineer Intern - Summer 2027 | Summer 2027 | Westerville, OH | 2026-08-11 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813?utm_source=Simplify&ref=Simplify) |
-| **Chamberlain Group** | Community Product Management Intern - Summer 2027 | Summer 2027 | Oak Brook, IL | 2026-08-10 | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309?utm_source=Simplify&ref=Simplify) |
-| **LPL Financial Holdings** | Data Engineer Intern - Data | Summer 2027 | Austin, TXFort Mill, SCCharlotte, NC | 2026-08-10 | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914?utm_source=Simplify&ref=Simplify) |
-| **LPL Financial Holdings** | Product Intern - Product | Summer 2027 | Austin, TXFort Mill, SC | 2026-08-10 | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918?utm_source=Simplify&ref=Simplify) |
-| **LPL Financial Holdings** | Software Engineer Intern | Summer 2027 | Austin, TXFort Mill, SCCharlotte, NC | 2026-08-10 | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921?utm_source=Simplify&ref=Simplify) |
-| **PSP Investments** | AI Solutions Intern - External Manager Selection & Monitoring | Summer 2027 | Montreal, QC, Canada | 2026-08-10 | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933?utm_source=Simplify&ref=Simplify) |
-| **RTX** | Software Engineer Intern - Summer 2027 | Summer 2027 | Marlborough, MA | 2026-08-10 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158?utm_source=Simplify&ref=Simplify) |
 
 ---
 
