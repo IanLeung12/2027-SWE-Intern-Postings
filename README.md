@@ -2,7 +2,7 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**1610 open postings** &middot; last updated 2026-09-13 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**1612 open postings** &middot; last updated 2026-09-13 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
@@ -124,7 +124,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **InfiniteQuant** | Quantitative Developer Intern - Summer 2027 | Summer 2027 | Dubai - United Arab EmiratesNYC | 2026-08-14 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594?utm_source=Simplify&ref=Simplify) |
 | **InfiniteQuant** | Quantitative Researcher Intern - Summer 2027 | Summer 2027 | Dubai - United Arab EmiratesNYC | 2026-08-14 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421?utm_source=Simplify&ref=Simplify) |
 
-## Tech <sub>(411)</sub>
+## Tech <sub>(412)</sub>
 
 *Big tech, AI labs and established technology companies.*
 
@@ -138,6 +138,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **AMD** :sparkles: | SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op | Summer 2027 | San Jose, CASanta Clara, CA | 2026-09-12 | [Apply](https://careers.amd.com/jobs/92350?icims=1&utm_source=Simplify&ref=Simplify) |
 | **Commure** :sparkles: | Software Engineer Intern - Summer 2027 | Summer 2027 | Mountain View, CA | 2026-09-12 | [Apply](https://jobs.ashbyhq.com/Commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **ibotta** :sparkles: | Software Engineer Intern | Summer 2027 | Denver, CO | 2026-09-12 | [Apply](https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| **Klaviyo** :sparkles: | Software Engineer Intern - Summer 2027 | Summer 2027 | Boston, MA | 2026-09-12 | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003?utm_source=Simplify&ref=Simplify) |
 | **Lyft** :sparkles: | Data Analyst Intern | Summer 2027 | NYC | 2026-09-12 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002&utm_source=Simplify&ref=Simplify) |
 | **Lyft** :sparkles: | Data Engineer Intern | Summer 2027 | Toronto, ON, Canada | 2026-09-12 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002&utm_source=Simplify&ref=Simplify) |
 | **Lyft** :sparkles: | Data Science Intern - Algorithms | Summer 2027 | SF | 2026-09-12 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002&utm_source=Simplify&ref=Simplify) |
@@ -557,12 +558,13 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Replit** | Software Engineer Intern - Summer 2027 | Summer 2027 | Foster City, CA | 2026-08-16 | [Apply](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **Notion** | Software Engineer Intern - Summer 2027 | Summer 2027 | SFNYC | 2026-08-15 | [Apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true&utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(1080)</sub>
+## Other <sub>(1081)</sub>
 
 *Everything else that cleared the bar.*
 
 | Company | Role | Term | Location | Added | Apply |
 | --- | --- | --- | --- | --- | --- |
+| **AnaVation** :sparkles: | Computer Science Intern - Summer 2027 | Summer 2027 | Chantilly, VA | 2026-09-13 | [Apply](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply?utm_source=Simplify&ref=Simplify) |
 | **Blue Robotics** :sparkles: | Electronics Design Co-op | Summer 2027 | Victoria, BC, Canada | 2026-09-12 | [Apply](https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8?utm_source=Simplify&ref=Simplify) |
 | **Constellation Energy** :sparkles: | Information Technology Software Development Intern | Summer 2027 | Baltimore, MD | 2026-09-12 | [Apply](https://jobs.constellationenergy.com/jobs/138708?icims=1&utm_source=Simplify&ref=Simplify) |
 | **Constellation Energy** :sparkles: | IT Data Engineering Intern | Summer 2027 | Baltimore, MD | 2026-09-12 | [Apply](https://jobs.constellationenergy.com/jobs/138716?icims=1&utm_source=Simplify&ref=Simplify) |
