@@ -2,16 +2,19 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**1917 open postings** &middot; last updated 2026-09-25 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**1965 open postings** &middot; last updated 2026-09-25 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
-## Quant <sub>(130)</sub>
+## Quant <sub>(133)</sub>
 
 *Trading firms, market makers and hedge funds.*
 
 | Company | Role | Term | Location | Added | Apply |
 | --- | --- | --- | --- | --- | --- |
+| **DRW** :sparkles: | Software Developer Intern | Summer 2027 | Chicago, IL | 2026-09-25 | [Apply](https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8220587?utm_source=Simplify&ref=Simplify) |
+| **Lazard** :sparkles: | AI and Data Transformation Intern | Summer 2027 | NYC | 2026-09-25 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650?utm_source=Simplify&ref=Simplify) |
+| **Revantage Corporate Services** :sparkles: | Quantitative Developer Intern | Summer 2027 | Remote in USAIllinois | 2026-09-24 | [Apply](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---Illinois/Quantitative-Developer-Intern_JR104315?utm_source=Simplify&ref=Simplify) |
 | **Virtu Financial** :sparkles: | QR | Summer 2027 | NYC, Austin | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624424002) |
 | **Two Sigma** :sparkles: | Hardware Engineering Intern | Summer 2027 | NYC | 2026-09-23 | [Apply](https://twosigma.avature.net/careers/JobDetail/14289?utm_source=Simplify&ref=Simplify) |
 | **JP Morgan Chase** :sparkles: | Quantitative Research Summer Analyst Internship - Asset Management | Summer 2027 | London, UK | 2026-09-22 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010?utm_source=Simplify&ref=Simplify) |
@@ -143,18 +146,31 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **DV Trading** | Futures & Options Trading Analyst Intern - Summer 2027 | Summer 2027 | NYC | 2026-08-26 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005?utm_source=Simplify&ref=Simplify) |
 | **Fannie Mae** | Treasury & Capital Markets Intern - Quantitative Research Track | Summer 2027 | Washington, DC | 2026-08-26 | [Apply](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872?utm_source=Simplify&ref=Simplify) |
 
-## Tech <sub>(480)</sub>
+## Tech <sub>(493)</sub>
 
 *Big tech, AI labs and established technology companies.*
 
 | Company | Role | Term | Location | Added | Apply |
 | --- | --- | --- | --- | --- | --- |
+| **Boston Scientific** :sparkles: | Software Engineer Intern - R&D | Summer 2027 | Arden Hills, MN | 2026-09-25 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813542900?utm_source=Simplify&ref=Simplify) |
+| **First Citizens BancShares** :sparkles: | IT Intern - Software Developer | Summer 2027 | Raleigh, NC | 2026-09-25 | [Apply](https://firstcitizens.jibeapply.com/jobs/35709?icims=1&utm_source=Simplify&ref=Simplify) |
+| **Genesis Molecular AI** :sparkles: | Software Engineer Intern | Summer 2027 | San Mateo, CANYC | 2026-09-25 | [Apply](https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| **Johns Hopkins Applied Physics Laboratory** :sparkles: | Space Exploration Software Engineer Intern - Embedded Applications | Summer 2027 | Laurel, MD | 2026-09-25 | [Apply](https://careers.jhuapl.edu/jobs/60223?icims=1&utm_source=Simplify&ref=Simplify) |
+| **Lutron Electronics** :sparkles: | Software Engineering Co-op | Summer 2027 | Philadelphia, PA | 2026-09-25 | [Apply](https://careers.lutron.com/jobs/5616?icims=1&utm_source=Simplify&ref=Simplify) |
 | **AMD** :sparkles: | AI Engineering Intern | Summer 2027 | Santa Clara, CA | 2026-09-24 | [Apply](https://careers.amd.com/jobs/91005?icims=1&utm_source=Simplify&ref=Simplify) |
 | **AMD** :sparkles: | Applied Artificial Intelligence Engineering Intern - Hardware AI | Summer 2027 | Santa Clara, CA | 2026-09-24 | [Apply](https://careers.amd.com/jobs/90997?icims=1&utm_source=Simplify&ref=Simplify) |
 | **AMD** :sparkles: | ML Systems Research Engineering Intern | Summer 2027 | Santa Clara, CA | 2026-09-24 | [Apply](https://careers.amd.com/jobs/90993?icims=1&utm_source=Simplify&ref=Simplify) |
 | **Arconic** :sparkles: | Software Developer Intern | Summer 2027 | Davenport, IA | 2026-09-24 | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233?utm_source=Simplify&ref=Simplify) |
 | **Illinois Tool Works** :sparkles: | Software Engineer Intern | Summer 2027 | Eden Prairie, MN | 2026-09-24 | [Apply](https://careers.itw.com/global/en/job/JR10261?utm_source=Simplify&ref=Simplify) |
+| **Motorola** :sparkles: | CPE Software End-to-End Triage Intern - Summer 2027 | Summer 2027 | Plantation, FL | 2026-09-24 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2027_R68165?utm_source=Simplify&ref=Simplify) |
+| **Motorola** :sparkles: | SoC Digital Engineer Intern | Summer 2027 | Plantation, FL | 2026-09-24 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Intern---SoC-Digital-Engineer_R69149?utm_source=Simplify&ref=Simplify) |
+| **Motorola** :sparkles: | Software Engineer Intern - Summer 2027 | Summer 2027 | Plantation, FL | 2026-09-24 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136?utm_source=Simplify&ref=Simplify) |
 | **Qualcomm** :sparkles: | Firmware Development Intern - PAL | Summer 2027 | Markham, ON, Canada | 2026-09-24 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721229661?utm_source=Simplify&ref=Simplify) |
+| **Radiance Technologies** :sparkles: | Software Engineer Intern | Summer 2027 | Dayton, OH | 2026-09-24 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102442?utm_source=Simplify&ref=Simplify) |
+| **Radiance Technologies** :sparkles: | Software Engineer Intern | Summer 2027 | Dayton, OH | 2026-09-24 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102445?utm_source=Simplify&ref=Simplify) |
+| **Radiance Technologies** :sparkles: | Software Engineer Intern | Summer 2027 | Dayton, OH | 2026-09-24 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102443?utm_source=Simplify&ref=Simplify) |
+| **Radiance Technologies** :sparkles: | Software Engineer Intern | Summer 2027 | Dayton, OH | 2026-09-24 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102446?utm_source=Simplify&ref=Simplify) |
+| **Radiance Technologies** :sparkles: | Software Engineer Intern | Summer 2027 | Dayton, OH | 2026-09-24 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102444?utm_source=Simplify&ref=Simplify) |
 | **State Farm** :sparkles: | Software Developer Intern - HR&D | Summer 2027 | 4 locationsTempe, AZDunwoody, GARichardson, TXBloomington, IL | 2026-09-24 | [Apply](https://jobs.statefarm.com/jobs/45689?icims=1&utm_source=Simplify&ref=Simplify) |
 | **Amazon** :sparkles: | Quantum Applied Science Intern - Quantum Technologies team | Summer 2027 | 4 locationsBoston, MASFPasadena, CASanta Clara, CA | 2026-09-23 | [Apply](https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team?utm_source=Simplify&ref=Simplify) |
 | **American Express** :sparkles: | Software Engineer Intern - Enterprise Technology Services | Summer 2027 | Salt Lake City, UT | 2026-09-23 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224?utm_source=Simplify&ref=Simplify) |
@@ -641,24 +657,55 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Skydio** | Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027 | Summer 2027 | San Mateo, CA | 2026-09-04 | [Apply](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **Waymo** | Data Science Intern - Commercialization Testing | Summer 2027 | SF | 2026-08-31 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8167323&utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(1303)</sub>
+## Other <sub>(1335)</sub>
 
 *Everything else that cleared the bar.*
 
 | Company | Role | Term | Location | Added | Apply |
 | --- | --- | --- | --- | --- | --- |
+| **Astranis** :sparkles: | Network Software Intern | Summer 2027 | SF | 2026-09-25 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705597006?utm_source=Simplify&ref=Simplify) |
+| **Astranis** :sparkles: | RF Validation Intern - Summer 2027 | Summer 2027 | SF | 2026-09-25 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716499006?utm_source=Simplify&ref=Simplify) |
+| **Barrios** :sparkles: | Data and Computer Engineering/Computer Science Intern | Summer 2027 | Houston, TX | 2026-09-25 | [Apply](https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
+| **Boston Scientific** :sparkles: | Software Development Engineer Co-op | Summer 2027 | Waltham, MA | 2026-09-25 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813567963?utm_source=Simplify&ref=Simplify) |
+| **Boston Scientific** :sparkles: | Software Development Engineer Intern | Summer 2027 | Waltham, MA | 2026-09-25 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813567960?utm_source=Simplify&ref=Simplify) |
+| **Capital Group** :sparkles: | Data & Technology Summer Associate - Capital Group Rotational Program | Summer 2027 | London, UK | 2026-09-25 | [Apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/London/CAMPUS--Capital-Group-Rotational-Program---Data---Tech-Track-Summer-Associate--London--2027-_JR7451?utm_source=Simplify&ref=Simplify) |
+| **CHS** :sparkles: | Data Analyst Intern | Summer 2027 | Inver Grove Heights, MN | 2026-09-25 | [Apply](https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Analyst-Intern-MN-55077-1721/1433568700/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
+| **Corning** :sparkles: | Measurements Engineering Intern - Summer 2027 | Summer 2027 | Corning, NY | 2026-09-25 | [Apply](https://corningjobs.corning.com/job/Corning-Intern,-Measurements-Summer-2027-NY-14831/1433453700/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
+| **Electronic Arts** :sparkles: | Gameplay Engineer Intern | Summer 2027 | LA | 2026-09-25 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245?utm_source=Simplify&ref=Simplify) |
+| **Genesis Molecular AI** :sparkles: | Machine Learning Research Intern | Summer 2027 | SFNYC | 2026-09-25 | [Apply](https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| **Genesis Molecular AI** :sparkles: | Machine Learning Research Intern - PhD | Summer 2027 | CaliforniaNYC | 2026-09-25 | [Apply](https://jobs.ashbyhq.com/genesis-molecular-ai/5b62eacf-e930-4bc8-8fc7-30c213c02127/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| **Greenheck Group** :sparkles: | Application Developer Co-op | Summer 2027 | Schofield, WI | 2026-09-25 | [Apply](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721?utm_source=Simplify&ref=Simplify) |
+| **Mill** :sparkles: | Electrical Engineer Intern | Summer 2027 | San Bruno, CA | 2026-09-25 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4737766005?utm_source=Simplify&ref=Simplify) |
+| **State Farm** :sparkles: | Data Science Intern - Magnet Program | Summer 2027 | Tempe, AZ | 2026-09-25 | [Apply](https://jobs.statefarm.com/jobs/46353?icims=1&utm_source=Simplify&ref=Simplify) |
+| **Tradeweb** :sparkles: | Market Data Product Management Intern | Summer 2027 | NYC | 2026-09-25 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932?utm_source=Simplify&ref=Simplify) |
+| **Tradeweb** :sparkles: | Quantitative Intern | Summer 2027 | NYC | 2026-09-25 | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301931?utm_source=Simplify&ref=Simplify) |
+| **ABB** :sparkles: | Product Management Intern | Summer 2027 | New Berlin, WI | 2026-09-24 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280?utm_source=Simplify&ref=Simplify) |
 | **Astranis** :sparkles: | FPGA Intern - Summer 2027 | Summer 2027 | SF | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704805006?utm_source=Simplify&ref=Simplify) |
 | **Astranis** :sparkles: | Software Defined Radio Hardware Intern - Summer 2027 | Summer 2027 | SF | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716088006?utm_source=Simplify&ref=Simplify) |
 | **Brevan Howard** :sparkles: | Systematic Trading Intern - Systematic Trading | Summer 2027 | London, UK | 2026-09-24 | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619?utm_source=Simplify&ref=Simplify) |
+| **Ciena** :sparkles: | Software Intern | Summer 2027 | Atlanta, GA | 2026-09-24 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern--Summer-2027-_R031695?utm_source=Simplify&ref=Simplify) |
 | **Ciena** :sparkles: | Software Intern - WaveLogic | Summer 2027 | Atlanta, GA | 2026-09-24 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692?utm_source=Simplify&ref=Simplify) |
 | **Enterprise Holdings** :sparkles: | Data Engineer Intern - IT | Summer 2027 | St. Louis, MO | 2026-09-24 | [Apply](https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | **Franklin Electric** :sparkles: | Global Business Strategy Development Intern | Summer 2027 | Fort Wayne, IN | 2026-09-24 | [Apply](https://franklin-electric.pinpointhq.com/en/postings/a8e0afdd-63ce-4817-aaca-056018010f06?ats=pinpointhq&utm_source=Simplify&ref=Simplify) |
 | **GM financial** :sparkles: | Software Development Engineer Intern | Summer 2027 | Arlington, TX | 2026-09-24 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943?utm_source=Simplify&ref=Simplify) |
+| **iRhythm Technologies** :sparkles: | Lifecycle Engineering Co-op Intern | Summer 2027 | Orange County, CA | 2026-09-24 | [Apply](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Orange-County-CA/Lifecycle-Engineering-Co-Op-Full-Time-Intern-Jan-June-2027_JR1784-1?utm_source=Simplify&ref=Simplify) |
 | **Klaviyo** :sparkles: | Machine Learning Engineer Intern | Summer 2027 | Palo Alto, CA | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003?utm_source=Simplify&ref=Simplify) |
+| **LabCorp** :sparkles: | Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team | Summer 2027 | Remote in USAMilwaukee, WI | 2026-09-24 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615?utm_source=Simplify&ref=Simplify) |
+| **Manulife Financial** :sparkles: | Product Management & Risk Technology Co-op | Summer 2027 | Toronto, ON, Canada | 2026-09-24 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Product-Management---Risk-Technology_JR26080874?utm_source=Simplify&ref=Simplify) |
+| **Marathon Petroleum** :sparkles: | Geographic Information Systems Intern/Co-op | Summer 2027 | Tulsa, OK | 2026-09-24 | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411?utm_source=Simplify&ref=Simplify) |
+| **Marvell** :sparkles: | Analog and Mixed Signal Layout Engineer Intern Co-op | Summer 2027 | Toronto, ON, Canada | 2026-09-24 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790?utm_source=Simplify&ref=Simplify) |
+| **Marvell** :sparkles: | Analog Design Intern Co-op - Master’s | Summer 2027 | Toronto, ON, Canada | 2026-09-24 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862?utm_source=Simplify&ref=Simplify) |
+| **Marvell** :sparkles: | Data Center Silicon Hardware Engineering Intern Co-op - BS | Summer 2027 | Toronto, ON, CanadaOttawa, ON, Canada | 2026-09-24 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525?utm_source=Simplify&ref=Simplify) |
 | **Microsoft** :sparkles: | Product Manager Intern | Summer 2027 | Mountain View, CA | 2026-09-24 | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557004836?utm_source=Simplify&ref=Simplify) |
 | **Qumulo** :sparkles: | Software Development Engineer Intern | Summer 2027 | Seattle, WA | 2026-09-24 | [Apply](https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| **Radiance Technologies** :sparkles: | Modeling Engineer Intern - Analytics & Simulation Sciences - Mass | Summer 2027 | Beavercreek, OH | 2026-09-24 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102436?utm_source=Simplify&ref=Simplify) |
+| **Radiance Technologies** :sparkles: | Modeling Engineer Intern - Analytics - Simulation Sciences | Summer 2027 | Beavercreek, OH | 2026-09-24 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439?utm_source=Simplify&ref=Simplify) |
+| **Radiance Technologies** :sparkles: | Modeling Engineer Intern - Analytics and Simulation Sciences | Summer 2027 | Beavercreek, OH | 2026-09-24 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438?utm_source=Simplify&ref=Simplify) |
+| **Radiance Technologies** :sparkles: | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Summer 2027 | Beavercreek, OH | 2026-09-24 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1?utm_source=Simplify&ref=Simplify) |
+| **Radiance Technologies** :sparkles: | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Summer 2027 | Beavercreek, OH | 2026-09-24 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441?utm_source=Simplify&ref=Simplify) |
 | **Resultant** :sparkles: | Data & Analytics Consultant Intern - Summer 2027 | Summer 2027 | Indianapolis, IN | 2026-09-24 | [Apply](https://jobs.smartrecruiters.com/Resultant/744000151474719?utm_source=Simplify&ref=Simplify) |
 | **Resultant** :sparkles: | Data & Analytics Consultant Intern - Summer 2027 | Summer 2027 | Chicago, IL | 2026-09-24 | [Apply](https://jobs.smartrecruiters.com/Resultant/744000151474767?utm_source=Simplify&ref=Simplify) |
+| **RTX** :sparkles: | Software Engineer Intern | Summer 2027 | Cedar Rapids, IA | 2026-09-24 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01873687?utm_source=Simplify&ref=Simplify) |
 | **Semtech** :sparkles: | Analog Design Engineer Intern | Summer 2027 | Calgary, AB, Canada | 2026-09-24 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623?utm_source=Simplify&ref=Simplify) |
 | **Semtech** :sparkles: | Analog Design Engineer Intern - Signal Integrity Products Group | Summer 2027 | Burlington, ON, Canada | 2026-09-24 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622?utm_source=Simplify&ref=Simplify) |
 | **Semtech** :sparkles: | Analog Design Intern | Summer 2027 | Ottawa, ON, Canada | 2026-09-24 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625?utm_source=Simplify&ref=Simplify) |
@@ -671,6 +718,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **West Bend Insurance** :sparkles: | Data Solution Engineer Intern | Summer 2027 | Madison, WIWest Bend, WI | 2026-09-24 | [Apply](https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | **AQR Capital Management** :sparkles: | Machine Learning Research Associate Intern | Summer 2027 | Greenwich, CT | 2026-09-23 | [Apply](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708&utm_source=Simplify&ref=Simplify) |
 | **Astranis** :sparkles: | Flight Software Intern - Summer 2027 | Summer 2027 | SF | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704598006?utm_source=Simplify&ref=Simplify) |
+| **Astranis** :sparkles: | Reliability Test Intern | Summer 2027 | SF | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705629006?utm_source=Simplify&ref=Simplify) |
 | **Bedrock Robotics** :sparkles: | Evaluation Engineer Intern - Metric Prototyping | Summer 2027 | SF | 2026-09-23 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/07b55743-d5c4-4347-bfac-000821317b13/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **Booz Allen** :sparkles: | Quantum Research Intern - Summer 2027 | Summer 2027 | Washington, DC | 2026-09-23 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027---Quantum-Research-Intern_R0250129?utm_source=Simplify&ref=Simplify) |
 | **CACI** :sparkles: | AI Systems Engineer Intern - Summer 2027 | Summer 2027 | Annapolis Junction, MDFort Meade, MD | 2026-09-23 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506?utm_source=Simplify&ref=Simplify) |
