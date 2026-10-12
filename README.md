@@ -2,7 +2,7 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**1285 open postings** &middot; last updated 2026-10-12 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**1294 open postings** &middot; last updated 2026-10-12 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
@@ -125,12 +125,13 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **DV Trading** | Quantitative Trading Intern - DV Equities | Summer 2027 | NYC | 2026-09-12 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005?utm_source=Simplify&ref=Simplify) |
 | **DV Trading** | Software Developer Intern | Summer 2027 | NYC | 2026-09-12 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005?utm_source=Simplify&ref=Simplify) |
 
-## Tech <sub>(347)</sub>
+## Tech <sub>(348)</sub>
 
 *Big tech, AI labs and established technology companies.*
 
 | Company | Role | Term | Location | Added | Apply |
 | --- | --- | --- | --- | --- | --- |
+| **CapTech Consulting** :sparkles: | Consulting Software Engineer Intern | Summer 2027 | Richmond, VA | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115?utm_source=Simplify&ref=Simplify) |
 | **AMD** :sparkles: | AI Agentic Flow for GPU ASIC Design Co-op Intern | Summer 2027 | Orlando, FL | 2026-10-10 | [Apply](https://careers.amd.com/jobs/91341?icims=1&utm_source=Simplify&ref=Simplify) |
 | **Electronic Arts** :sparkles: | Gameplay Software Engineer Co-op | Summer 2027 | Vancouver, BC, Canada | 2026-10-10 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230?utm_source=Simplify&ref=Simplify) |
 | **Electronic Arts** :sparkles: | Software Engineer Co-op | Summer 2027 | Vancouver, BC, Canada | 2026-10-10 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231?utm_source=Simplify&ref=Simplify) |
@@ -491,12 +492,20 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Stripe** | Software Engineer Intern | Summer 2027 | Seattle, WASF | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8241260&utm_source=Simplify&ref=Simplify) |
 | **Anduril** | Flight Software Engineer Intern | Summer 2027 | Costa Mesa, CA | 2026-09-16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(821)</sub>
+## Other <sub>(829)</sub>
 
 *Everything else that cleared the bar.*
 
 | Company | Role | Term | Location | Added | Apply |
 | --- | --- | --- | --- | --- | --- |
+| **Bosch Home Comfort** :sparkles: | AI Business Solutions Intern | Summer 2027 | Coventry, UK | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154992819?utm_source=Simplify&ref=Simplify) |
+| **CapTech Consulting** :sparkles: | Data Analysis/Data Engineering Intern | Summer 2027 | Richmond, VA | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169?utm_source=Simplify&ref=Simplify) |
+| **Capula** :sparkles: | Technology Intern | Summer 2027 | London, UK | 2026-10-12 | [Apply](https://apply.workable.com/capula-investment-management-ltd/j/96EBCF5617/apply?utm_source=Simplify&ref=Simplify) |
+| **Google** :sparkles: | Forward Deployed Engineer Intern | Summer 2027 | NYCSunnyvale, CA | 2026-10-12 | [Apply](https://www.google.com/about/careers/applications/jobs/results/75665705386549958?utm_source=Simplify&ref=Simplify) |
+| **Kainos** :sparkles: | Placement Technologist Intern | Summer 2027 | Londonderry, UK | 2026-10-12 | [Apply](https://kainos.wd3.myworkdayjobs.com/kainos/job/Derry-Londonderry/Placement-Technologist--L-Derry----June-2027-Start-Date_JR_18557-1?utm_source=Simplify&ref=Simplify) |
+| **Kainos** :sparkles: | Technologist Intern | Summer 2027 | Belfast, UK | 2026-10-12 | [Apply](https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Placement-Technologist--Belfast----June-2027-Start-Date_JR_18556?utm_source=Simplify&ref=Simplify) |
+| **Kainos** :sparkles: | Technologist Intern | Summer 2027 | Birmingham, UK | 2026-10-12 | [Apply](https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Placement-Technologist--Birmingham----July-2027-Start-Date_JR_18558?utm_source=Simplify&ref=Simplify) |
+| **LSEG** :sparkles: | Engineering Intern | Summer 2027 | Nottingham, UK | 2026-10-12 | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221?utm_source=Simplify&ref=Simplify) |
 | **Johns Hopkins Applied Physics Laboratory** :sparkles: | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Summer 2027 | Laurel, MD | 2026-10-11 | [Apply](https://careers.jhuapl.edu/jobs/60432?icims=1&utm_source=Simplify&ref=Simplify) |
 | **Affirm** :sparkles: | IT Engineer Intern - Early Careers | Summer 2027 | SF | 2026-10-10 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003?utm_source=Simplify&ref=Simplify) |
 | **Capstone Investment Advisors** :sparkles: | Tech Execution Intern | Summer 2027 | NYC | 2026-10-10 | [Apply](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002?utm_source=Simplify&ref=Simplify) |
