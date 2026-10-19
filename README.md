@@ -2,11 +2,11 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**1016 open postings** &middot; last updated 2026-10-18 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**967 open postings** &middot; last updated 2026-10-19 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
-## Quant <sub>(96)</sub>
+## Quant <sub>(92)</sub>
 
 *Trading firms, market makers and hedge funds.*
 
@@ -104,12 +104,8 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Walleye Capital** | QR | Summer 2027 | New York, NY; Boston, MA; Miami, FL | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) |
 | **Walleye Capital** | SWE | Summer 2027 | New York, NY; Boston, MA; Miami, FL | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006) |
 | **Lazard** | Software Engineer Intern - AI & Data Team | Summer 2027 | NYC | 2026-09-19 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6603?utm_source=Simplify&ref=Simplify) |
-| **Bank of Montreal** | MFE Associate - Global Markets | Summer 2027 | NYC | 2026-09-18 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/MFE-Summer-Associate--Global-Markets_R260026728?utm_source=Simplify&ref=Simplify) |
-| **Geneva Trading** | AI Engineer Intern | Summer 2027 | Chicago, IL | 2026-09-18 | [Apply](https://job-boards.greenhouse.io/genevatrading/jobs/5240107007?utm_source=Simplify&ref=Simplify) |
-| **JP Morgan Chase** | Machine Learning Engineer Summer Associate Intern - Asset and Wealth Management | Summer 2027 | Jersey City, NJ | 2026-09-18 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790885?utm_source=Simplify&ref=Simplify) |
-| **Royal Bank of Canada** | Wealth Management Technology Intern | Summer 2027 | Minneapolis, MN | 2026-09-18 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852?utm_source=Simplify&ref=Simplify) |
 
-## Tech <sub>(237)</sub>
+## Tech <sub>(217)</sub>
 
 *Big tech, AI labs and established technology companies.*
 
@@ -332,26 +328,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Qualcomm** | IP Applications Engineering Intern - Interim Engineering Intern - HW | Summer 2027 | Toronto, ON, Canada | 2026-09-19 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156615?utm_source=Simplify&ref=Simplify) |
 | **Qualcomm** | MSIP Digital Design Verification Engineering Intern - HW | Summer 2027 | Toronto, ON, Canada | 2026-09-19 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156800?utm_source=Simplify&ref=Simplify) |
 | **Together AI** | Software Engineer Intern | Summer 2027 | SF | 2026-09-19 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5232036007?utm_source=Simplify&ref=Simplify) |
-| **Amazon** | Software Development Engineer Intern - Summer | Summer 2027 | Seattle, WAArlington County, Arlington, VA | 2026-09-18 | [Apply](https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa?utm_source=Simplify&ref=Simplify) |
-| **Athene** | Software Developer Intern | Summer 2027 | West Des Moines, IA | 2026-09-18 | [Apply](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125?utm_source=Simplify&ref=Simplify) |
-| **CME Group** | Software Engineering Intern - Summer 2027 | Summer 2027 | Chicago, IL | 2026-09-18 | [Apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821?utm_source=Simplify&ref=Simplify) |
-| **Cogna** | Software Engineer Intern | Summer 2027 | London, UK | 2026-09-18 | [Apply](https://apply.workable.com/cogna/j/45A6283F88/apply?utm_source=Simplify&ref=Simplify) |
-| **Gordon Food Service** | Software Engineer Intern | Summer 2027 | Wyoming, MI | 2026-09-18 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377?utm_source=Simplify&ref=Simplify) |
-| **Gordon Food Service** | Software Engineer Intern - Low Code | Summer 2027 | Wyoming, MI | 2026-09-18 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375?utm_source=Simplify&ref=Simplify) |
-| **Honeywell** | Software Engineer Co-op | Summer 2027 | Pittsford, NY | 2026-09-18 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158088?utm_source=Simplify&ref=Simplify) |
-| **Qualcomm** | Analog Design Intern - Hardware Engineering | Summer 2027 | Toronto, ON, Canada | 2026-09-18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721140914?utm_source=Simplify&ref=Simplify) |
-| **Qualcomm** | Design Methodology Engineer Intern - MSIP - HW | Summer 2027 | Toronto, ON, Canada | 2026-09-18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721140936?utm_source=Simplify&ref=Simplify) |
-| **Qualcomm** | Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development | Summer 2027 | Toronto, ON, Canada | 2026-09-18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721141411?utm_source=Simplify&ref=Simplify) |
-| **Qualcomm** | Low Power AI Software Development Intern - Interim Engineering Intern - Software | Summer 2027 | Markham, ON, Canada | 2026-09-18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143440?utm_source=Simplify&ref=Simplify) |
-| **Qualcomm** | Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW | Summer 2027 | Toronto, ON, Canada | 2026-09-18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721142985?utm_source=Simplify&ref=Simplify) |
-| **Qualcomm** | Silicon Validation Intern | Summer 2027 | Toronto, ON, Canada | 2026-09-18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143274?utm_source=Simplify&ref=Simplify) |
-| **REV Robotics** | Software Engineer Intern | Summer 2027 | Carrollton, TX | 2026-09-18 | [Apply](https://ats.rippling.com/rev-robotics/jobs/9f4e5d99-0bba-4e03-8018-e312810a3dba?utm_source=Simplify&ref=Simplify) |
-| **Tesla** | Internship - Software Engineering - People Products - Summer 2027 | Summer 2027 | Palo Alto, CA | 2026-09-18 | [Apply](https://www.tesla.com/careers/search/job/284004?utm_source=Simplify&ref=Simplify) |
-| **Thrivent** | Associate Software Engineer Intern | Summer 2027 | Minnesota | 2026-09-18 | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457?utm_source=Simplify&ref=Simplify) |
-| **Thrivent** | Associate Software Engineer Intern | Summer 2027 | Minnesota | 2026-09-18 | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334?utm_source=Simplify&ref=Simplify) |
-| **TikTok** | Machine Learning Engineer Intern - E-Commerce Recommendation Mall | Summer 2027 | San Jose, CA | 2026-09-18 | [Apply](https://lifeattiktok.com/search/7686283601340369205?utm_source=Simplify&ref=Simplify) |
-| **TRC Companies** | Software Engineer Intern | Summer 2027 | Calgary, AB, Canada | 2026-09-18 | [Apply](https://careers.trccompanies.com/jobs/26840?icims=1&utm_source=Simplify&ref=Simplify) |
-| **W.R. Berkley** | Software Developer Intern - Java | Summer 2027 | Urbandale, IA | 2026-09-18 | [Apply](https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 
 ## Startups <sub>(6)</sub>
 
@@ -366,7 +342,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Waymo** | AI-driven ML Performance Engineering Intern - MS/PhD | Summer 2027 | Mountain View, CA | 2026-10-02 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248060&utm_source=Simplify&ref=Simplify) |
 | **Stripe** | Software Engineer Intern | Summer 2027 | Seattle, WASF | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8241260&utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(677)</sub>
+## Other <sub>(652)</sub>
 
 *Everything else that cleared the bar.*
 
@@ -1024,31 +1000,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Together AI** | Research Intern - Model Shaping | Summer 2027 | SF | 2026-09-19 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238466007?utm_source=Simplify&ref=Simplify) |
 | **Together AI** | Systems Research Engineer Intern - GPU Programming | Summer 2027 | SF | 2026-09-19 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238460007?utm_source=Simplify&ref=Simplify) |
 | **WTW** | Data Scientist Intern - P&C Insurance | Summer 2027 | London, UKReigate, UK | 2026-09-19 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997?utm_source=Simplify&ref=Simplify) |
-| **Altar'd State** | IT Analytics Intern | Summer 2027 | Knoxville, TN | 2026-09-18 | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499?utm_source=Simplify&ref=Simplify) |
-| **American Family Insurance Group** | Internal Data and Analytics Intern - Summer 2027 | Summer 2027 | Madison, WI | 2026-09-18 | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Internal-Data-and-Analytics-Intern---Summer-2027_R39401?utm_source=Simplify&ref=Simplify) |
-| **Centene** | Analytics Intern | Summer 2027 | Florida | 2026-09-18 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479?utm_source=Simplify&ref=Simplify) |
-| **Centene** | Data and Analytics Intern - Undergraduate | Summer 2027 | Missouri | 2026-09-18 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-and-Analytics-Summer-2027-Intern--Undergraduate-_1660515?utm_source=Simplify&ref=Simplify) |
-| **Corning** | Imaging Sciences Engineer Intern | Summer 2027 | Keene, NH | 2026-09-18 | [Apply](https://corningjobs.corning.com/job/Keene-Imaging-Sciences-Engineering-Intern-Summer-2027-NH-03431/1431391900/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
-| **Flex** | Manufacturing Data & Analytics Co-op | Summer 2027 | Libertyville, IL | 2026-09-18 | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700?utm_source=Simplify&ref=Simplify) |
-| **General Motors** | Product Management Intern - Digital Product | Summer 2027 | Austin, TXWarren, MI | 2026-09-18 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538?utm_source=Simplify&ref=Simplify) |
-| **GM financial** | Software Development Engineer Intern | Summer 2027 | Arlington, TX | 2026-09-18 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260818?utm_source=Simplify&ref=Simplify) |
-| **GM financial** | Software Development Engineer Intern | Summer 2027 | Arlington, TX | 2026-09-18 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795?utm_source=Simplify&ref=Simplify) |
-| **Gordon Food Service** | Category Insights Analyst Intern | Summer 2027 | Wyoming, MI | 2026-09-18 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/NA-Category-Insights-Analyst-Intern_R-57366-1?utm_source=Simplify&ref=Simplify) |
-| **Gordon Food Service** | Category Technology Intern | Summer 2027 | Wyoming, MI | 2026-09-18 | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/MMSC-Category-Technology-Intern_R-57362?utm_source=Simplify&ref=Simplify) |
-| **Guardian Life** | Summer Intern - Group Benefits Product Management | Summer 2027 | Boston, MA | 2026-09-18 | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299?utm_source=Simplify&ref=Simplify) |
-| **Honeywell** | Data Science Co-op | Summer 2027 | Pittsford, NY | 2026-09-18 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157903?utm_source=Simplify&ref=Simplify) |
-| **Lennox International** | AI & Analytics Intern | Summer 2027 | Richardson, TX | 2026-09-18 | [Apply](https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Lennox International** | AI Engineering Intern - Summer 2027 | Summer 2027 | Richardson, TX | 2026-09-18 | [Apply](https://uscareers-lennox.icims.com/jobs/54897/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Lennox International** | IoT Intern | Summer 2027 | Richardson, TX | 2026-09-18 | [Apply](https://uscareers-lennox.icims.com/jobs/54893/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Rivian** | Engineering Intern/Co-op - Test and Validation - Charging Products | Summer 2027 | Torrance, CA | 2026-09-18 | [Apply](https://careers.rivian.com/jobs/33725?icims=1&utm_source=Simplify&ref=Simplify) |
-| **Robert Bosch Venture Capital** | AI Engineering Intern | Summer 2027 | Plymouth, MI | 2026-09-18 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150217869?utm_source=Simplify&ref=Simplify) |
-| **Rocket Lab USA** | Systems Engineer Intern | Summer 2027 | Pasadena, CA | 2026-09-18 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003?utm_source=Simplify&ref=Simplify) |
-| **RTX** | Digital Hardware Design Engineer Co-op - Summer/Fall 2027 | Summer 2027 | Cedar Rapids, IA | 2026-09-18 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519?utm_source=Simplify&ref=Simplify) |
-| **RTX** | Software Engineering Intern | Summer 2027 | Sterling, VA | 2026-09-18 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780?utm_source=Simplify&ref=Simplify) |
-| **Tyler Technologies** | Software Development Intern | Summer 2027 | Lawrenceville, GA | 2026-09-18 | [Apply](https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) |
-| **United Parcel Service** | Industrial Engineering Intern - Americas Region | Summer 2027 | United States | 2026-09-18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989?utm_source=Simplify&ref=Simplify) |
-| **USAA** | Digital/Technical Product Manager Intern - Digital and Omnichannel Servicing | Summer 2027 | San Antonio, TX | 2026-09-18 | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101?utm_source=Simplify&ref=Simplify) |
-| **W.R. Berkley** | Product Management Analyst Intern - Claims | Summer 2027 | Manassas, VA | 2026-09-18 | [Apply](https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 
 ---
 
