@@ -2,11 +2,11 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**943 open postings** &middot; last updated 2026-10-20 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**894 open postings** &middot; last updated 2026-10-21 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
-## Quant <sub>(91)</sub>
+## Quant <sub>(43)</sub>
 
 *Trading firms, market makers and hedge funds.*
 
@@ -55,54 +55,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Hudson River Trading** | QR | Summer 2027 | NYC | 2026-09-21 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062&gh_src=f4cuomjz1us) |
 | **Lazard** | AI Engineer Intern | Summer 2027 | NYC | 2026-09-21 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606?utm_source=Simplify&ref=Simplify) |
 | **Lazard** | Data Engineer Intern | Summer 2027 | NYC | 2026-09-21 | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605?utm_source=Simplify&ref=Simplify) |
-| **Akuna Capital** | HW | Summer 2027 | Chicago | 2026-09-20 | [Apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
-| **Akuna Capital** | QD | Summer 2027 | Chicago | 2026-09-20 | [Apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
-| **Akuna Capital** | QR | Summer 2027 | Chicago | 2026-09-20 | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
-| **Akuna Capital** | SWE | Summer 2027 | Chicago | 2026-09-20 | [Apply](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
-| **Aquatic** | QR | Summer 2027 | Chicago | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
-| **Aquatic** | SWE | Summer 2027 | Chicago | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
-| **Citadel** | QR | Summer 2027 | Chicago, NYC | 2026-09-20 | [Apply](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) |
-| **Citadel** | QT | Summer 2027 | Chicago, NYC | 2026-09-20 | [Apply](https://www.citadel.com/careers/details/quantitative-trader-equities-quantitative-research-intern-us/) |
-| **Citadel** | SWE | Summer 2027 | Chicago, NYC | 2026-09-20 | [Apply](https://www.citadel.com/careers/details/software-engineer-intern-us/) |
-| **Citadel Securities** | HW | Summer 2027 | Chicago, NYC | 2026-09-20 | [Apply](https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/) |
-| **Citadel Securities** | ML | Summer 2027 | Chicago, NYC | 2026-09-20 | [Apply](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/) |
-| **Citadel Securities** | QR | Summer 2027 | Chicago, NYC | 2026-09-20 | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/) |
-| **Citadel Securities** | QT | Summer 2027 | Chicago, NYC | 2026-09-20 | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/) |
-| **Citadel Securities** | SWE | Summer 2027 | Chicago, NYC | 2026-09-20 | [Apply](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) |
-| **DRW** | FPGA | Summer 2027 | Chicago, NYC | 2026-09-20 | [Apply](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423) |
-| **DRW** | QR | Summer 2027 | Chicago, NYC | 2026-09-20 | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670) |
-| **DRW** | SWE | Summer 2027 | Chicago, NYC | 2026-09-20 | [Apply](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328) |
-| **Five Rings** | QR | Summer 2027 | NYC | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) |
-| **Five Rings** | QT | Summer 2027 | NYC | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) |
-| **Five Rings** | SWE | Summer 2027 | NYC | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
-| **Flow Traders** | QT | Summer 2027 | NYC | 2026-09-20 | [Apply](https://www.flowtraders.com/careers/job-description/8047166) |
-| **IMC Trading** | HW | Summer 2027 | Chicago | 2026-09-20 | [Apply](https://www.imc.com/us/careers/jobs/4823945101) |
-| **IMC Trading** | QR | Summer 2027 | Chicago | 2026-09-20 | [Apply](https://www.imc.com/us/careers/jobs/4907399101) |
-| **IMC Trading** | QT | Summer 2027 | Chicago | 2026-09-20 | [Apply](https://www.imc.com/us/careers/jobs/4823923101) |
-| **IMC Trading** | SWE | Summer 2027 | Chicago | 2026-09-20 | [Apply](https://www.imc.com/us/careers/jobs/4823924101) |
-| **Jane Street** | FPGA | Summer 2027 | NYC | 2026-09-20 | [Apply](https://www.janestreet.com/join-jane-street/position/8624440002/) |
-| **Jane Street** | QR | Summer 2027 | NYC | 2026-09-20 | [Apply](https://www.janestreet.com/join-jane-street/position/8498547002/) |
-| **Jane Street** | QT | Summer 2027 | NYC | 2026-09-20 | [Apply](https://www.janestreet.com/join-jane-street/position/8617344002/) |
-| **Jane Street** | SWE | Summer 2027 | NYC | 2026-09-20 | [Apply](https://www.janestreet.com/join-jane-street/position/8599644002/) |
-| **Old Mission** | SWE | Summer 2027 | Chicago, NYC | 2026-09-20 | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
-| **Optiver** | QR | Summer 2027 | Chicago, Austin | 2026-09-20 | [Apply](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/chicago/quantitative-research-intern-phd-summer-2027/) |
-| **Optiver** | QT | Summer 2027 | Chicago, Austin | 2026-09-20 | [Apply](https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/) |
-| **Optiver** | SWE | Summer 2027 | Chicago, Austin | 2026-09-20 | [Apply](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) |
-| **Quantic** | QD | Summer 2027 | Boston, MA | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) |
-| **Quantic** | QR | Summer 2027 | Boston, MA | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006) |
-| **Seven Research** | QD | Summer 2027 | NYC | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008) |
-| **Seven Research** | QR | Summer 2027 | NYC | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) |
-| **Seven Research** | SWE | Summer 2027 | NYC | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) |
-| **SIG** | QR | Summer 2027 | Bala Cynwyd, Chicago, NYC | 2026-09-20 | [Apply](https://careers.sig.com/quantitative-systematic-trading-quantitative-research/jobs/10819) |
-| **SIG** | QT | Summer 2027 | Bala Cynwyd, Chicago, NYC | 2026-09-20 | [Apply](https://careers.sig.com/quantitative-trading-internships-co-ops/jobs/10849) |
-| **SIG** | SWE | Summer 2027 | Bala Cynwyd, Chicago, NYC | 2026-09-20 | [Apply](https://careers.sig.com/intern-co-op/jobs/10838) |
-| **TransMarketGroup** | DevOps/SRE | Summer 2027 | Chicago, Puerto Rico | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007) |
-| **TransMarketGroup** | QT | Summer 2027 | Chicago, Puerto Rico | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007) |
-| **Voloridge** | QD | Summer 2027 | Jupiter, Florida | 2026-09-20 | [Apply](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224862009) |
-| **Voloridge** | QR | Summer 2027 | Jupiter, Florida | 2026-09-20 | [Apply](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4226247009) |
-| **Voloridge** | QR Fellowship | Summer 2027 | Jupiter, Florida | 2026-09-20 | [Apply](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009) |
-| **Walleye Capital** | QR | Summer 2027 | New York, NY; Boston, MA; Miami, FL | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) |
-| **Walleye Capital** | SWE | Summer 2027 | New York, NY; Boston, MA; Miami, FL | 2026-09-20 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006) |
 
 ## Tech <sub>(210)</sub>
 
@@ -334,7 +286,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Waymo** | AI-driven ML Performance Engineering Intern - MS/PhD | Summer 2027 | Mountain View, CA | 2026-10-02 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248060&utm_source=Simplify&ref=Simplify) |
 | **Stripe** | Software Engineer Intern | Summer 2027 | Seattle, WASF | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8241260&utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(636)</sub>
+## Other <sub>(635)</sub>
 
 *Everything else that cleared the bar.*
 
@@ -975,7 +927,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Upbound Group** | Customer Performance Analytics Intern | Summer 2027 | Plano, TX | 2026-09-21 | [Apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Customer-Performance-Analytics-Intern_R-100769?utm_source=Simplify&ref=Simplify) |
 | **Upbound Group** | Digital Commerce Intern | Summer 2027 | Plano, TX | 2026-09-21 | [Apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Digital-Commerce-Intern_R-100767?utm_source=Simplify&ref=Simplify) |
 | **Watts Water** | B2C E-Commerce Analytics & Website Intern - Summer 2027 | Summer 2027 | North Andover, MA | 2026-09-21 | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/B2C-E-Commerce-Analytics---Website-Intern--Summer-2027_10017536?utm_source=Simplify&ref=Simplify) |
-| **The Aerospace Corporation** | Reliability and Statistics Intern | Summer 2027 | El Segundo, CA | 2026-09-20 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594?utm_source=Simplify&ref=Simplify) |
 
 ---
 
