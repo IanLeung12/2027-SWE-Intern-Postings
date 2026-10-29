@@ -2,7 +2,7 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**836 open postings** &middot; last updated 2026-10-28 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**827 open postings** &middot; last updated 2026-10-29 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
@@ -89,7 +89,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Walleye Capital** | Special Projects Developer Intern | Summer 2027 | NYC | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006?utm_source=Simplify&ref=Simplify) |
 | **Quantum Signal AI** | Embedded and Real-Time Software Intern | Summer 2027 | Saline, MI | 2026-10-01 | [Apply](https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern?utm_source=Simplify&ref=Simplify) |
 
-## Tech <sub>(203)</sub>
+## Tech <sub>(200)</sub>
 
 *Big tech, AI labs and established technology companies.*
 
@@ -295,9 +295,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Perchwell** | Software Engineer Intern | Summer 2027 | NYC | 2026-09-29 | [Apply](https://jobs.ashbyhq.com/Perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **Q2** | Software Engineer Intern | Summer 2027 | Cary, NC | 2026-09-29 | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798?utm_source=Simplify&ref=Simplify) |
 | **Qualcomm** | Soft IP ASIC Engineer Intern | Summer 2027 | Ottawa, ON, Canada | 2026-09-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721302471?utm_source=Simplify&ref=Simplify) |
-| **POET** | Software Developer Intern | Summer 2027 | Sioux Falls, SD | 2026-09-28 | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1?utm_source=Simplify&ref=Simplify) |
-| **The Aerospace Corporation** | Software Engineering Intern | Summer 2027 | Chantilly, VAEl Segundo, CA | 2026-09-28 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R016758?utm_source=Simplify&ref=Simplify) |
-| **The Aerospace Corporation** | Software Engineering Intern - Software Tools and Assurance | Summer 2027 | El Segundo, CA | 2026-09-28 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753?utm_source=Simplify&ref=Simplify) |
 
 ## Startups <sub>(11)</sub>
 
@@ -317,7 +314,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Waymo** | AI-driven ML Performance Engineering Intern - MS/PhD | Summer 2027 | Mountain View, CA | 2026-10-02 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248060&utm_source=Simplify&ref=Simplify) |
 | **Stripe** | Software Engineer Intern | Summer 2027 | Seattle, WASF | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8241260&utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(546)</sub>
+## Other <sub>(540)</sub>
 
 *Everything else that cleared the bar.*
 
@@ -863,12 +860,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Verizon Communications** | Data Scientist Intern - Fiber Engineering & Operations | Summer 2027 | Irving, TX | 2026-09-29 | [Apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386?utm_source=Simplify&ref=Simplify) |
 | **W.W. Grainger** | Business Analyst Intern | Summer 2027 | Green Bay, WI | 2026-09-29 | [Apply](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
 | **Xcel Energy** | Computer Information Systems Intern | Summer 2027 | Monticello, MNWelch, MN | 2026-09-29 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Monticello-MN-55362/Computer-Information-Systems-Intern---MN_JR116038?utm_source=Simplify&ref=Simplify) |
-| **Itron** | Data Science Intern - Distributed Intelligence | Summer 2027 | Liberty Lake, WA | 2026-09-28 | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2?utm_source=Simplify&ref=Simplify) |
-| **Itron** | Data Science Intern - Distributed Intelligence | Summer 2027 | Liberty Lake, WA | 2026-09-28 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942?utm_source=Simplify&ref=Simplify) |
-| **Marvell** | Architecture Intern | Summer 2027 | Burlington, VT | 2026-09-28 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Architecture-Intern--MS---Summer-2027_2604613-1?utm_source=Simplify&ref=Simplify) |
-| **POET** | Data Engineer Intern | Summer 2027 | Sioux Falls, SD | 2026-09-28 | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787?utm_source=Simplify&ref=Simplify) |
-| **RTX** | Software Engineering Co-op | Summer 2027 | Cedar Rapids, IA | 2026-09-28 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645?utm_source=Simplify&ref=Simplify) |
-| **TC Energy** | Measurement Services Intern | Summer 2027 | Charleston, WV | 2026-09-28 | [Apply](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Intern--Measurement-Services_JR-10976?utm_source=Simplify&ref=Simplify) |
 
 ---
 
