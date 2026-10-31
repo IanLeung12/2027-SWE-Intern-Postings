@@ -2,7 +2,7 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**779 open postings** &middot; last updated 2026-10-30 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**760 open postings** &middot; last updated 2026-10-31 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
@@ -89,7 +89,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Walleye Capital** | Special Projects Developer Intern | Summer 2027 | NYC | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006?utm_source=Simplify&ref=Simplify) |
 | **Quantum Signal AI** | Embedded and Real-Time Software Intern | Summer 2027 | Saline, MI | 2026-10-01 | [Apply](https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern?utm_source=Simplify&ref=Simplify) |
 
-## Tech <sub>(192)</sub>
+## Tech <sub>(185)</sub>
 
 *Big tech, AI labs and established technology companies.*
 
@@ -280,13 +280,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Peraton** | Software Engineering Co-op | Summer 2027 | San Diego, CA | 2026-10-01 | [Apply](https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
 | **Southwest Airlines** | Software Engineer Intern | Summer 2027 | Dallas, TX | 2026-10-01 | [Apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270?utm_source=Simplify&ref=Simplify) |
 | **The Federal Reserve System** | Computer Science and Software Engineering Intern | Summer 2027 | Chicago, IL | 2026-10-01 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637?utm_source=Simplify&ref=Simplify) |
-| **Amazon** | Applied Science Intern - Information & Knowledge Management | Summer 2027 | Seattle, WA | 2026-09-30 | [Apply](https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting?utm_source=Simplify&ref=Simplify) |
-| **AMCA** | Software Engineer Intern | Summer 2027 | El Segundo, CA | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4425120009?utm_source=Simplify&ref=Simplify) |
-| **Enova** | Software Engineer Intern | Summer 2027 | Chicago, IL | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/enova/jobs/8239619?utm_source=Simplify&ref=Simplify) |
-| **Honeywell** | Software Engineering Co-op | Summer 2027 | United States | 2026-09-30 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957?utm_source=Simplify&ref=Simplify) |
-| **Iridium Communications** | Software Engineering Intern | Summer 2027 | Tempe, AZMcLean, VA | 2026-09-30 | [Apply](https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Wellmark** | Software Engineer Intern - Metadata Enablement Team | Summer 2027 | Des Moines, IA | 2026-09-30 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000152679699?utm_source=Simplify&ref=Simplify) |
-| **Westinghouse Electric Company** | Software Developer Intern - Tools & Apps | Summer 2027 | Warrendale, PA | 2026-09-30 | [Apply](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
 
 ## Startups <sub>(11)</sub>
 
@@ -306,7 +299,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Waymo** | AI-driven ML Performance Engineering Intern - MS/PhD | Summer 2027 | Mountain View, CA | 2026-10-02 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8248060&utm_source=Simplify&ref=Simplify) |
 | **Stripe** | Software Engineer Intern | Summer 2027 | Seattle, WASF | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8241260&utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(500)</sub>
+## Other <sub>(488)</sub>
 
 *Everything else that cleared the bar.*
 
@@ -800,18 +793,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **The Federal Reserve System** | Statistics and Analysis Intern | Summer 2027 | Cleveland, OH | 2026-10-01 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Statistics-and-Analysis-Intern---2027_R-0000033645?utm_source=Simplify&ref=Simplify) |
 | **Varda Space** | Avionics Engineering Intern | Summer 2027 | El Segundo, CA | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003?utm_source=Simplify&ref=Simplify) |
 | **Varda Space** | Flight Software Intern | Summer 2027 | El Segundo, CA | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010159003?utm_source=Simplify&ref=Simplify) |
-| **Acuity** | Finance AI Engineering Intern | Summer 2027 | Atlanta, GA | 2026-09-30 | [Apply](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
-| **Acuity** | Finance AI Product Management Intern | Summer 2027 | Atlanta, GA | 2026-09-30 | [Apply](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
-| **Acuity** | Product Management Technology Intern | Summer 2027 | Conyers, GA | 2026-09-30 | [Apply](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors&utm_source=Simplify&ref=Simplify) |
-| **AMCA** | Electrical Engineering Internship - Summer 2027 | Summer 2027 | El Segundo, CA | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/amca/jobs/4396690009?utm_source=Simplify&ref=Simplify) |
-| **CACI** | Software/Network Engineering Intern | Summer 2027 | Florham Park, NJ | 2026-09-30 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895?utm_source=Simplify&ref=Simplify) |
-| **Epic Games** | Product Management Intern | Summer 2027 | Cary, NC | 2026-09-30 | [Apply](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004&utm_source=Simplify&ref=Simplify) |
-| **ibotta** | Business Intelligence Intern | Summer 2027 | Denver, CO | 2026-09-30 | [Apply](https://jobs.ashbyhq.com/ibotta/3a27a6fc-5d2c-4b88-8b19-8f9f7094f899/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| **Northrop Grumman** | Embedded Software Engineer Intern | Summer 2027 | Rolling Meadows, IL | 2026-09-30 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790?utm_source=Simplify&ref=Simplify) |
-| **Northrop Grumman** | Hardware Electronics Engineer Intern | Summer 2027 | Rolling Meadows, IL | 2026-09-30 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Electronics-Engineer-Intern---Rolling-Meadows-IL_R10252779-1?utm_source=Simplify&ref=Simplify) |
-| **Northrop Grumman** | Software Digital Intern | Summer 2027 | Rolling Meadows, IL | 2026-09-30 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812?utm_source=Simplify&ref=Simplify) |
-| **Robinhood** | Data Science Intern | Summer 2027 | Menlo Park, CA | 2026-09-30 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8241738?utm_source=Simplify&ref=Simplify) |
-| **RTX** | Software Engineer Intern - Summer 2027 | Summer 2027 | Fort Wayne, IN | 2026-09-30 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986?utm_source=Simplify&ref=Simplify) |
 
 ---
 
