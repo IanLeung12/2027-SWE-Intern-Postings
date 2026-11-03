@@ -2,7 +2,7 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**649 open postings** &middot; last updated 2026-11-02 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**629 open postings** &middot; last updated 2026-11-03 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
@@ -85,7 +85,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Jain Global** | Quant Research Intern - Systematic Trading | Summer 2027 | NYC | 2026-10-05 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1?utm_source=Simplify&ref=Simplify) |
 | **Quantum Signal AI** | Software Engineer Intern - Tools and Prototypes | Summer 2027 | Saline, MI | 2026-10-05 | [Apply](https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes?utm_source=Simplify&ref=Simplify) |
 
-## Tech <sub>(165)</sub>
+## Tech <sub>(157)</sub>
 
 *Big tech, AI labs and established technology companies.*
 
@@ -248,16 +248,8 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **NVIDIA** | Hardware Engineering Intern | Summer 2027 | Santa Clara, CA | 2026-10-05 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047?utm_source=Simplify&ref=Simplify) |
 | **NVIDIA** | Software Engineer Intern | Summer 2027 | Santa Clara, CA | 2026-10-05 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958?utm_source=Simplify&ref=Simplify) |
 | **Thales** | Software Engineering Apprentice | Summer 2027 | Cheadle, UK | 2026-10-05 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863?utm_source=Simplify&ref=Simplify) |
-| **Affirm** | Software Engineer Intern - Machine Learning | Summer 2027 | SF | 2026-10-03 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003?utm_source=Simplify&ref=Simplify) |
-| **Affirm** | Software Engineer Intern - Summer 2027 | Summer 2027 | SF | 2026-10-03 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003?utm_source=Simplify&ref=Simplify) |
-| **AMD** | Masters Photonics Design Engineering Co-op | Summer 2027 | San Jose, CA | 2026-10-03 | [Apply](https://careers.amd.com/jobs/91633?icims=1&utm_source=Simplify&ref=Simplify) |
-| **Arc** | Software Engineer Intern | Summer 2027 | Torrance, CA | 2026-10-03 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008?utm_source=Simplify&ref=Simplify) |
-| **Electronic Arts** | Software Engineer Intern | Summer 2027 | Austin, TX | 2026-10-03 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239?utm_source=Simplify&ref=Simplify) |
-| **Harvey** | Software Engineer Intern | Summer 2027 | NYC | 2026-10-03 | [Apply](https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| **Harvey** | Software Engineer Intern - Summer 2027 | Summer 2027 | SF | 2026-10-03 | [Apply](https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| **xAI** | Software Engineer Intern/Co-op | Summer 2027 | Palo Alto, CA | 2026-10-03 | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255111007?utm_source=Simplify&ref=Simplify) |
 
-## Startups <sub>(9)</sub>
+## Startups <sub>(8)</sub>
 
 *Early-stage and venture-backed technology companies.*
 
@@ -271,9 +263,8 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Anduril** | Firmware Engineer Intern | Summer 2027 | Costa Mesa, CA | 2026-10-14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?utm_source=Simplify&ref=Simplify) |
 | **Skydio** | Embedded Software Engineer Intern | Summer 2027 | San Mateo, CA | 2026-10-14 | [Apply](https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **Anduril** | Software Engineer Intern | Summer 2027 | London, UK | 2026-10-07 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5255902007?utm_source=Simplify&ref=Simplify) |
-| **Databricks** | Software Engineer Intern | Summer 2027 | London, UK | 2026-10-03 | [Apply](https://boards.greenhouse.io/embed/job_app?token=8847738002&utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(403)</sub>
+## Other <sub>(392)</sub>
 
 *Everything else that cleared the bar.*
 
@@ -671,17 +662,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **NBCUniversal** | Media Product Intern | Summer 2027 | London, UK | 2026-10-04 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373389?utm_source=Simplify&ref=Simplify) |
 | **NBCUniversal** | Product Intern | Summer 2027 | London, UK | 2026-10-04 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372229?utm_source=Simplify&ref=Simplify) |
 | **Primient** | AI Analyst Intern | Summer 2027 | Schaumburg, IL | 2026-10-04 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056?utm_source=Simplify&ref=Simplify) |
-| **Arc** | Electrical Hardware Engineering Intern | Summer 2027 | Torrance, CA | 2026-10-03 | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008?utm_source=Simplify&ref=Simplify) |
-| **C3.ai** | AI Product Manager Intern - Summer 2027 | Summer 2027 | Redwood City, CA | 2026-10-03 | [Apply](https://c3.ai/job-description/8860563002?gh_jid=8860563002&utm_source=Simplify&ref=Simplify) |
-| **CesiumAstro** | Electrical Engineering Intern - FPGA | Summer 2027 | El Segundo, CA | 2026-10-03 | [Apply](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply?utm_source=Simplify&ref=Simplify) |
-| **Electronic Arts** | Product Manager Intern | Summer 2027 | LA | 2026-10-03 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272?utm_source=Simplify&ref=Simplify) |
-| **First Citizens BancShares** | Summer Intern - Sales Performance & Analytics Strategy | Summer 2027 | Raleigh, NC | 2026-10-03 | [Apply](https://firstcitizens.jibeapply.com/jobs/35826?icims=1&utm_source=Simplify&ref=Simplify) |
-| **Intuit** | Finance Transformation & Analytics Intern | Summer 2027 | Mountain View, CA | 2026-10-03 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184?utm_source=Simplify&ref=Simplify) |
-| **Intuit** | Marketing Intern - AI Tooling for Marketing Efficiency | Summer 2027 | SFMountain View, CA | 2026-10-03 | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552?utm_source=Simplify&ref=Simplify) |
-| **Koch Industries** | Product Management Intern | Summer 2027 | Eden Prairie, MNLisle, IL | 2026-10-03 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/195099?utm_source=Simplify&ref=Simplify) |
-| **Palomar Holdings** | Technical Intern | Summer 2027 | Edina, MNChicago, ILLa Jolla, San Diego, CA | 2026-10-03 | [Apply](https://ats.rippling.com/plmrcareers/jobs/d49be92b-8999-4f38-a39c-81500baadec7?utm_source=Simplify&ref=Simplify) |
-| **Scout Clean Energy** | Operations Engineering Intern | Summer 2027 | Boulder, CO | 2026-10-03 | [Apply](https://apply.workable.com/scout-clean-energy/j/7BF0CEDF9F/apply?utm_source=Simplify&ref=Simplify) |
-| **Vertiv** | Design Engineering Intern | Summer 2027 | Delaware, OHFort Lauderdale, FL | 2026-10-03 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279257?utm_source=Simplify&ref=Simplify) |
 
 ---
 
