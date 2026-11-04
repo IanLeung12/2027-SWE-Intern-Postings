@@ -2,7 +2,7 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**629 open postings** &middot; last updated 2026-11-03 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**623 open postings** &middot; last updated 2026-11-04 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
@@ -264,7 +264,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Skydio** | Embedded Software Engineer Intern | Summer 2027 | San Mateo, CA | 2026-10-14 | [Apply](https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **Anduril** | Software Engineer Intern | Summer 2027 | London, UK | 2026-10-07 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5255902007?utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(392)</sub>
+## Other <sub>(386)</sub>
 
 *Everything else that cleared the bar.*
 
@@ -656,12 +656,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Renesas Electronics** | Analog Intern | Summer 2027 | San Jose, CAPlano, TXSan Diego, CA | 2026-10-05 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000153500409?utm_source=Simplify&ref=Simplify) |
 | **RTX** | Data Analytics Intern | Summer 2027 | Annapolis, MD | 2026-10-05 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Data-Analytics---Reporting-Intern--Summer-2027-_01874271?utm_source=Simplify&ref=Simplify) |
 | **Zurn Elkay Water Solutions** | Sales Analytics Intern | Summer 2027 | Milwaukee, WI | 2026-10-05 | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1?utm_source=Simplify&ref=Simplify) |
-| **Diversified Energy** | Information Technology Intern | Summer 2027 | Birmingham, AL | 2026-10-04 | [Apply](https://careers.div.energy/jobs/2734?icims=1&utm_source=Simplify&ref=Simplify) |
-| **DreamWorks Animation** | Audience Insights & Analytics Intern | Summer 2027 | London, UK | 2026-10-04 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373639?utm_source=Simplify&ref=Simplify) |
-| **NBCUniversal** | Data Analytics Intern | Summer 2027 | London, UK | 2026-10-04 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371465?utm_source=Simplify&ref=Simplify) |
-| **NBCUniversal** | Media Product Intern | Summer 2027 | London, UK | 2026-10-04 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373389?utm_source=Simplify&ref=Simplify) |
-| **NBCUniversal** | Product Intern | Summer 2027 | London, UK | 2026-10-04 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372229?utm_source=Simplify&ref=Simplify) |
-| **Primient** | AI Analyst Intern | Summer 2027 | Schaumburg, IL | 2026-10-04 | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056?utm_source=Simplify&ref=Simplify) |
 
 ---
 
