@@ -2,11 +2,11 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**512 open postings** &middot; last updated 2026-11-06 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**482 open postings** &middot; last updated 2026-11-07 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
-## Quant <sub>(66)</sub>
+## Quant <sub>(61)</sub>
 
 *Trading firms, market makers and hedge funds.*
 
@@ -73,13 +73,8 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Schonfeld** | Quantitative Developer Intern | Summer 2027 | Austin, TX | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8267092?utm_source=Simplify&ref=Simplify) |
 | **Schonfeld** | Quantitative Research Intern | Summer 2027 | Austin, TX | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8267120?utm_source=Simplify&ref=Simplify) |
 | **PDT Partners** | Quantitative Research Intern | Summer 2027 | NYC | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031?utm_source=Simplify&ref=Simplify) |
-| **JP Morgan Chase** | Consumer & Community Banking Internship - Risk Modeling Associate Program | Summer 2027 | 5 locationsPalo Alto, CAPlano, TXJersey City, NJColumbus, OHWilmington, DE | 2026-10-07 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061?utm_source=Simplify&ref=Simplify) |
-| **Sigma Computing** | AI/ML PhD Intern | Summer 2027 | NYC | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003?utm_source=Simplify&ref=Simplify) |
-| **Sigma Computing** | AI/ML PhD Intern | Summer 2027 | SF | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003?utm_source=Simplify&ref=Simplify) |
-| **Sigma Computing** | Software Engineer Intern | Summer 2027 | NYC | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003?utm_source=Simplify&ref=Simplify) |
-| **Sigma Computing** | Software Engineer Intern - Summer 2027 | Summer 2027 | SFNYC | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=Simplify&ref=Simplify) |
 
-## Tech <sub>(133)</sub>
+## Tech <sub>(123)</sub>
 
 *Big tech, AI labs and established technology companies.*
 
@@ -208,18 +203,8 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **TikTok** | Machine Learning Engineer Intern | Summer 2027 | San Jose, CA | 2026-10-08 | [Apply](https://lifeattiktok.com/search/7694045969156426037?utm_source=Simplify&ref=Simplify) |
 | **TikTok** | Machine Learning Engineer Intern | Summer 2027 | San Jose, CA | 2026-10-08 | [Apply](https://lifeattiktok.com/search/7694044547207268661?utm_source=Simplify&ref=Simplify) |
 | **TikTok** | Machine Learning Engineer Intern - Monetization Technology - Ads Core Global | Summer 2027 | San Jose, CA | 2026-10-08 | [Apply](https://lifeattiktok.com/search/7687630614472149301?utm_source=Simplify&ref=Simplify) |
-| **Amazon** | Software Engineer Intern - Embedded Systems | Summer 2027 | Redmond, WANorthridge, LA | 2026-10-07 | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa?utm_source=Simplify&ref=Simplify) |
-| **Courier Health** | Software Engineer Intern | Summer 2027 | NYC | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/courierhealth/jobs/5258913007?utm_source=Simplify&ref=Simplify) |
-| **Electronic Arts** | Software Engineer Intern | Summer 2027 | Austin, TX | 2026-10-07 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216240?utm_source=Simplify&ref=Simplify) |
-| **Lyft** | PhD Machine Learning Software Engineer Intern | Summer 2027 | SF | 2026-10-07 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002&utm_source=Simplify&ref=Simplify) |
-| **Meta** | Data Scientist Intern - Product Analytics | Summer 2027 | Menlo Park, CA | 2026-10-07 | [Apply](https://www.metacareers.com/jobs/929757023499411?utm_source=Simplify&ref=Simplify) |
-| **Meta** | Data Scientist Intern - Product Analytics | Summer 2027 | Menlo Park, CANYC | 2026-10-07 | [Apply](https://www.metacareers.com/jobs/1633096478817942?utm_source=Simplify&ref=Simplify) |
-| **Niantic Spatial** | Software Engineer Intern | Summer 2027 | SF | 2026-10-07 | [Apply](https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| **Pure Storage** | Software Engineer Intern | Summer 2027 | Santa Clara, CA | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8249749?utm_source=Simplify&ref=Simplify) |
-| **Rivet Industries** | Software Engineer Intern | Summer 2027 | San Jose, CA | 2026-10-07 | [Apply](https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| **S&C Electric Company** | Software Engineer Intern | Summer 2027 | Chicago, IL | 2026-10-07 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374?utm_source=Simplify&ref=Simplify) |
 
-## Startups <sub>(8)</sub>
+## Startups <sub>(7)</sub>
 
 *Early-stage and venture-backed technology companies.*
 
@@ -232,9 +217,8 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Skydio** | Wireless Hardware Engineer Intern | Summer 2027 | San Mateo, CA | 2026-10-21 | [Apply](https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true&utm_source=Simplify&ref=Simplify) |
 | **Anduril** | Firmware Engineer Intern | Summer 2027 | Costa Mesa, CA | 2026-10-14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?utm_source=Simplify&ref=Simplify) |
 | **Skydio** | Embedded Software Engineer Intern | Summer 2027 | San Mateo, CA | 2026-10-14 | [Apply](https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true&utm_source=Simplify&ref=Simplify) |
-| **Anduril** | Software Engineer Intern | Summer 2027 | London, UK | 2026-10-07 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5255902007?utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(305)</sub>
+## Other <sub>(291)</sub>
 
 *Everything else that cleared the bar.*
 
@@ -531,20 +515,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Rugged Robotics** | Robotics Software Intern Co-op | Summer 2027 | Houston, TX | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005?utm_source=Simplify&ref=Simplify) |
 | **USAA** | Product Management Advisor Intern | Summer 2027 | San Antonio, TX | 2026-10-08 | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Management-Advisor-Intern_R0121653?utm_source=Simplify&ref=Simplify) |
 | **WSFS Bank** | Product Intern | Summer 2027 | Wilmington, DE | 2026-10-08 | [Apply](https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Product_R-104113-2?utm_source=Simplify&ref=Simplify) |
-| **Alliance Laundry Systems** | Embedded Firmware Co-op | Summer 2027 | Ripon, WI | 2026-10-07 | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) |
-| **Auto-Owners Insurance** | Business Intelligence Engineer Intern | Summer 2027 | Lansing, MI | 2026-10-07 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662?utm_source=Simplify&ref=Simplify) |
-| **Autodesk** | Research Intern - AI Research | Summer 2027 | Toronto, ON, Canada | 2026-10-07 | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1?utm_source=Simplify&ref=Simplify) |
-| **Autodesk** | Research Intern - AI Research | Summer 2027 | Toronto, ON, Canada | 2026-10-07 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373?utm_source=Simplify&ref=Simplify) |
-| **Electronic Arts** | Product Management Intern | Summer 2027 | Austin, TX | 2026-10-07 | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182?utm_source=Simplify&ref=Simplify) |
-| **First Citizens BancShares** | Summer Intern - Card Product Management - Business to Business Payments | Summer 2027 | NYC | 2026-10-07 | [Apply](https://firstcitizens.jibeapply.com/jobs/35886?icims=1&utm_source=Simplify&ref=Simplify) |
-| **GuideWell Mutual** | IT Graduate Internship - Multiple Teams | Summer 2027 | Jacksonville, FL | 2026-10-07 | [Apply](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182?utm_source=Simplify&ref=Simplify) |
-| **Nokia** | ASIC Physical Design Co-op | Summer 2027 | San Jose, CA | 2026-10-07 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122?utm_source=Simplify&ref=Simplify) |
-| **Northrop Grumman** | Software Developer Intern | Summer 2027 | Chantilly, VA | 2026-10-07 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1?utm_source=Simplify&ref=Simplify) |
-| **onsemi** | Applications Intern | Summer 2027 | Princeton, NJ | 2026-10-07 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506799?utm_source=Simplify&ref=Simplify) |
-| **Renesas Electronics** | Post Silicon Validation Intern | Summer 2027 | Duluth, GA | 2026-10-07 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000153840059?utm_source=Simplify&ref=Simplify) |
-| **S&C Electric Company** | Electronics Engineer Intern | Summer 2027 | Chicago, IL | 2026-10-07 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107358?utm_source=Simplify&ref=Simplify) |
-| **S&C Electric Company** | Test Equipment Engineering and Maintenance Intern | Summer 2027 | Franklin, WI | 2026-10-07 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107368?utm_source=Simplify&ref=Simplify) |
-| **Space Dynamics Laboratory** | Computer Vision Engineer Intern | Summer 2027 | North Logan, UT | 2026-10-07 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/x1yVybua0f/Computer-Vision-Engineer-Intern?utm_source=Simplify&ref=Simplify) |
 
 ---
 
