@@ -2,7 +2,7 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**382 open postings** &middot; last updated 2026-11-10 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**381 open postings** &middot; last updated 2026-11-11 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
@@ -188,7 +188,7 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **Anduril** | Firmware Engineer Intern | Summer 2027 | Costa Mesa, CA | 2026-10-14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?utm_source=Simplify&ref=Simplify) |
 | **Skydio** | Embedded Software Engineer Intern | Summer 2027 | San Mateo, CA | 2026-10-14 | [Apply](https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true&utm_source=Simplify&ref=Simplify) |
 
-## Other <sub>(221)</sub>
+## Other <sub>(220)</sub>
 
 *Everything else that cleared the bar.*
 
@@ -414,7 +414,6 @@ Rows are dropped automatically once they are more than 30 days old. :sparkles: m
 | **RTX** | Software Engineering Co-op | Summer 2027 | Cedar Rapids, IA | 2026-10-12 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01881902?utm_source=Simplify&ref=Simplify) |
 | **TIAA** | Enterprise Analytics Intern | Summer 2027 | Dallas, TXCharlotte, NC | 2026-10-12 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--TIAA-Enterprise-Analytics_R261000118-2?utm_source=Simplify&ref=Simplify) |
 | **TIAA** | Insurance Solutions & New Markets Intern | Summer 2027 | Charlotte, NC | 2026-10-12 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--Insurance-Solutions---New-Markets_R261000120-2?utm_source=Simplify&ref=Simplify) |
-| **Johns Hopkins Applied Physics Laboratory** | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Summer 2027 | Laurel, MD | 2026-10-11 | [Apply](https://careers.jhuapl.edu/jobs/60432?icims=1&utm_source=Simplify&ref=Simplify) |
 
 ---
 
