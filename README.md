@@ -2,7 +2,7 @@
 
 Internships for Winter / Summer 2027 in software engineering, quant and startup roles.
 
-**267 open postings** &middot; last updated 2026-11-18 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
+**267 open postings** &middot; last updated 2026-11-19 &middot; [browsable version](https://ianleung12.github.io/2027-SWE-Intern-Postings/)
 
 Rows are dropped automatically once they are more than 30 days old. :sparkles: marks a posting added in the last 3 days.
 
